@@ -1,0 +1,17 @@
+The recent approval of the Financial System Crisis Prevention and Mitigation Law by the Indonesian House of Representatives does not materially change the likelihood of government support for domestic systemically important banks (D-SIBs), says Fitch Ratings.
+
+Fitch continues to believe that the Indonesian government maintains a high propensity to provide support for large banks during times of stress, although controlling shareholders will be expected to contribute additional capital before government support in the event of a bank failure.
+
+The bill sets the legal framework for how the authorities will act to resolve problem banks when shareholder actions to support banks prove insufficient, such as in the event of widespread financial crisis. While key details have yet to be announced, the general framework is broadly in line with global moves. The law also sets out measures the authorities can take to prevent bank insolvency.
+
+An earlier draft of the bill included specific provision for the use of state funds by the government as lender of last resort. However, this explicit reference to support was removed from the final version due to concerns about moral hazard.
+
+Notwithstanding this, Fitch understands that implicit support has not changed and the government will continue to have a strong propensity to support systemically important banks to maintain financial sector stability. The 10 largest banks in Indonesia accounted for around 65% of total banking assets at end-2015.
+
+The bill establishes a Financial System Stability Committee (KSSK) that comprises representatives from the Ministry of Finance, the central bank (Bank Indonesia), the financial regulator (OJK) and the Indonesia Deposit Insurance Corporation (LPS). These institutions together are responsible for monitoring and maintaining stability in the financial system and handling systemically important banks that run into difficulty.
+
+Under the bill, OJK must finalise its list of D-SIBs within three months. Fitch expects that this list will include the top-10 banks at a minimum, and possibly as many as 20 banks in total. In addition, the regulator must ensure that all supporting regulations are issued no later than one year from the date of signing the draft into law. These will include regulations on the treatment of bank liabilities in resolution, such as uninsured deposits and senior unsecured creditors, bank recovery and resolution plans, and resolvability assessments.
+
+The KSSK will be the authority responsible for deciding the resolution strategy and actions for banks designated as D-SIB, while LPS will be the sole authority for non-systemic banks. LPS will be the authority responsible for implementing the agreed resolution plan for all banks, with powers that include the ability to take control of the bank and operate it, to transfer assets and liabilities without shareholder and creditor consent, and to merge, sell or liquidate the bank.
+
+The bill was approved by the Indonesian parliament on 17 March and has now been sent to the president to be signed into law. Fitch will provide further comment, including potential impact on Support Ratings and Support Rating Floors, when other key details become available.

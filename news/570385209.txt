@@ -1,0 +1,37 @@
+Google Now, search giant Google’s eponymous voice assistant, has a surprisingly good grasp on the nuances of human speech.
+
+Thanks to a killer combination of machine learning and crowdsourced data, it can parse mumbles, murmurs, and even the most garbled of phrases.
+
+In August of last year, as an example, Google said it cut voice transcription errors by up to 49 percent.
+
+But if there’s one element of linguistic diversity that’s tended to trip it up, it’s accents — only recently did Now gain official support for Indian and Australian dialects. Reportedly, though, Google has a plan to improve things: recruiting users of Reddit.
+
+Reddit, a social network perhaps as well known for its internet activism as its controversial upper management, is reportedly serving as a recruitment pool for Google voice volunteers. The Mountain View, California-based company has retained the services of a third-party firm, Appen, that has begun hiring Reddit users — or Redditors, as they’re colloquially known — with specific accents for the purpose of improving Google’s voice recognition engine.
+
+Gig listings by Appen began appearing this week on a number of subreddits — Reddit’s term for the individual communities that live under the broader network’s umbrella.
+
+The ads are equitably directed at users searching for part-time work — i.e., Redditors of /r/slavelabour, /r/WorkOnline /r/beermoney — and those who live in cities with high concentrations of distinctive inflections, like /r/Edinburgh. They’re all seeking the same: users with particular linguistic cadences who will submit to “the [collection of] speech data.”
+
+“I’m currently recruiting to collect … data for Google,” read one request, since removed, on /r/slavelabour. “It requires you to use an Android to complete the task. The task is recording voice prompts like ‘Indy now,’ [and] ‘Google what’s the time.’ Each phrase takes around 3-5 seconds.”
+
+The work in whole is fairly involved, apparently — participants are required to recite 2,000 individual phrases over the course of three hours — but rewarded generously in cold, hard cash.
+
+Adults earn 27 pounds ($36), and kids under 16 earn slightly less — 20 pounds ($26) — but they read from a shorter, 45-minute script of 500 phrases.
+
+Google appears to be focusing on one accent in particular: that of the Scottish variety. It’s a relatively tough inflection to nail, according to Quartz — its peculiar cadence frequently trips up voice assistants from Now to Apple’s Siri on the iPhone and iPad.
+
+The training sessions are relatively straightforward. Participants who spoke to The Verge — a diverse bunch with accents from “the U.K.” and “America” in addition to more exotic dialects, including “Indian” and “Chinese-accented English” — reported being directed to a mobile onboarding webpage. After tapping a “record” icon on that page, phrases appeared in sequence.
+
+Some snippets referenced Google, apparently — “OK Google,” and “Hey, Google” — while others included brand names, toys, video games, movie titles, and YouTube channel names. And still others ran the gamut: queries from Google searches like “How to make a birthday cake”; idioms like “Hey Google, get cold feet,” and even trivia questions (“Presidents in order”).
+
+Samples, once collected, are processed by Aspen’s in-house team. Company chief Mark Brayan, who spoke to The Verge, broke down the workflow: employees analyze recordings from “around the world” in 130 languages, distilling sentences down into their grammatical fundamentals.
+
+In a subsequent process Aspen calls “decoration,” the linguists make contextual annotations, noting such details as the environment in which the recordings were made — outdoors, for instance, or in a crowded hallway — and the device used to conduct them.
+
+It’s an arduous undertaking, according to Brayan. Minor improvements require massive quantities of data and analysis. “To go from understanding 95 percent of words to 99 percent, the recognizer has to digest infrequently used words, of which there are millions,” Brayan told The Verge. And “unusual” terms like esoteric product names are even more problematic — Appen must account not only for familiar pronunciations of such words, but unique pronunciations of them, too. “One of the big challenges is what we call named entity recognition,” Brayan said. “That’s brand names, product names, individual names, and so on. So if you’re launching in Canada, for example, you need not only the French language but also French-accented Canadian English."
+
+The ideal end result? Leaps and bounds in voice recognition. Marsal Gavalda, head of machine intelligence at Yik Yak, said that historically, the capabilities of speech recognition systems have been limited by the homogeny of the data ingested. “[Such systems] have been trained from data collected mostly in universities, and mostly from the student population,” he told the Verge. He has a term for it: electronic imperialism. “The [diversity of voices] reflect the student population 30 years ago,” Gavalda said.
+
+Already, the situation is improving… albeit marginally. Google misinterprets words in “tier 2” languages — the less popular languages to which companies like Google and Apple devote less attention — much less frequently than it once did. Over the past two years alone, the word error rate for Indonesian has decreased from 40 percent to 18 percent, Google’s chief of speech recognition Johan Schalkwyk told Fusion. But companies like Google have a long way to go — Schalkwyk said the company’s voice recognition engine needs at least 5,000 hours of voice data to understand a language “well.”
+
+Google, it seems, is going to need a lot more accented Redditors.

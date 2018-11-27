@@ -1,0 +1,43 @@
+Want to make a million dollars? Find the most efficient way to map Indonesia’s peatlands.
+
+That’s the ticket to winning the Indonesian Peat Prize, announced by the cartographically challenged Southeast Asian country last month.
+
+The competition will establish a national standard for mapping peatland extent and thickness, a process deemed essential to stopping the annual forest and peat fires which grow more devastating by the year. Last dry season, they burned an area the size of Rwanda, afflicted half a million people with respiratory problems, pumped an enormous amount of carbon into the atmosphere and cost Indonesia $16 billion, according to government and World Bank figures.
+
+Underlying the scourge is the large-scale draining and drying of the archipelago’s peat swamps by oil palm and pulpwood interests – a practice banned at the height of last year’s disaster by reformist President Joko “Jokowi” Widodo. In the aftermath, Jokowi created an agency to restore 2 million hectares of damaged peatland. But the ambiguous and conflicting nature of Indonesia’s peat maps is an impediment to the plan.
+
+Enter the peat prize. Its goal is to identify “the most useful technology and methodology” for mapping peat, which the government will ostensibly turn toward creating a more precise reference that everyone can agree on. Proposals are due on May 11. Just about anyone can enter, as long as they are Indonesian or have a local partner. The competition is hosted by Indonesia’s geospatial agency, BIG, and funded by the Packard Foundation.
+
+“We’re looking for a method that’s fast, accurate and affordable,” BIG chief Priyo Kardono told journalists at the competition’s launch last month. “Without a decent map, managing our peatlands is not going to be easy.”
+
+The existing maps
+
+Peat, a deposit of dead plant material, is often an early stage in coal formation, which helps explain why it burns so readily – and emits greenhouse gases so prolifically – when dried. Peat has been called the “forgotten fossil fuel”; some countries, especially Finland and Ireland, use it for heating and electrical energy.
+
+Mapping Indonesia’s peatlands, the world’s vastest, will be an unprecedented endeavor. Until now, two maps have competed for legitimacy: one produced as a “best guess” by the NGO Wetlands International in the early 2000s, and one produced by the agriculture ministry a decade later. Both maps “consistently underestimate” the archipelago’s peatland extent and thickness, according to the Dutch consultancy Deltares.
+
+“Our analysis confirms the widely shared understanding that neither of the existing peat maps may be considered suitable for spatial planning or policy making,” Deltares wrote in a 2013 report for the development ministry.
+
+Stakeholders disagree over which map is more credible. In general, NGOs and scientists favor the Wetlands map, which counts more peat – and is thus seen as less inaccurate – than the agriculture ministry’s map.
+
+Officials defend the latter as an improvement that is “based on more comprehensive field measurements,” but critics describe it as “politicized,” noting that its main innovation is to reduce peat thickness in areas covered by plantation concessions, which are not allowed to be handed out on deep peat – yet, in practice, often are.
+
+Last December, Greenpeace caused a fracas when it accused Indonesia of underreporting land-use emissions to the UN climate summit in Paris based in part on the agriculture ministry’s allegedly faulty peatland figures. The NGO called on the government to “commission a full-scale LiDAR-based mapping of all potential peatlands in Indonesia, to increase the reliability of available peat maps.” Officials responded with umbrage at the notion that they weren’t using the best data available.
+
+“A prize is a great way to get people to stop talking and start doing,” Robert Benedict, a founder of the U.S.-based design firm Complex Partners, which is helping to administer the competition, told Mongabay.
+
+An ascendant technology
+
+LiDAR – the term is a portmanteau of “light” and “radar” – could figure prominently in the entrants’ proposals. Deltares isalready using the remote-sensing technology to map peat in some of the conglomerate Asia Pulp & Paper’s concessions.
+
+LiDAR-equipped aircraft fly transects over the landscape, generating topographical maps from which Deltares, combining the data with assumptions about the land surface beneath the peat, can extrapolate its thickness and extent. It helps that in Sumatra and Kalimantan, where most of the fires have been concentrated, peat tends to form vast domes, in which the center is topographically higher than the edges.
+
+“If you can pick out these domed structures, then you’ve got a fairly good idea of where your peatlands are located, regardless of whether they’ve got forest on them, plantation, scrub or whatever,” Susan Page, a geographer from the University of Leicester, told Mongabay.
+
+Innovations in data interpretation are bringing down the price of LiDAR peat mapping, added Page, who sits on the panel of experts that will recommend a winner to the geospatial agency.
+
+Even though the winning team won’t be announced until October 2017 – the Solution Development Phase, in which the approved applicants will test their method, begins in June and lasts a year – Jokowi’s peatland restoration agency should be able to start its work immediately.
+
+“We may not have the very fine-level detail that we would get from new technologies and improved mapping, but we know enough about where the peat is at the moment,” Page explained. “So we don’t have to wait for that.
+
+This story was published with permission from Mongabay.

@@ -1,0 +1,67 @@
+The 7,5 magnitude earthquake and subsequent tsunami that had hit Palu and Donggala in Central Sulawesi Indonesia last Friday, has killed at least 1,300 people. Some 99 people are missing, 799 injured and nearly 60 thousand are displaced in over 100 locations.
+
+After the 2004 tsunami in Aceh, the international community and Indonesia invested hundreds of billions of rupiah to set up the country’s tsunami early warning system, InaTEWS. But with the rising death toll of Palu and Donggala disasters, its effectiveness is questioned.
+
+Although InaTEWS may be conceptually comprehensive, it was not able to provide the necessary service when faced with the earthquake in Palu. Its heavy emphasis on the technology and not the people has serious implication in human lives.
+
+Many fell victim for not evacuating in time. Almost all of the victims of the tsunami did not receive evacuation information from the government after the earthquake. No sirens rang. At the same time, the public have yet to have the habit of quick evacuation to higher ground right after an earthquake.
+
+The public’s alertness to tsunamis and earthquakes is not simply a matter of sufficient technology. It’s also a socio-cultural, economic, and political problem that must be sufficiently and continuously addressed in detail.
+
+The Palu tsunami controversy
+
+Indonesia’s House of Representatives (DPR) will be calling the Chief of the Indonesian Agency for Meteorology, Climatology, and Geophysics (BMKG) to hear her explanation on why the BMKG’s tsunami warning was revoked after the arrival of the deadly waves on the coast of Palu. Thirty minutes after the warning was issued, the BMKG terminated the warning while the tsunami had arrived 15 minutes earlier.
+
+BMKG’s decision was based on the results of Palu’s tsunami modelling analysis verified using a tide gauge located in Mamuju (300km from Palu). Results from the analysis have shown that the tsunami water level was detected but it was not significant enough for it to be considered dangerous.
+
+The BMKG and a number of experts explained that the tide gauge in Palu was either not confirmed or was not functioning. At the same time, it was impossible for them to verify directly to Palu as phone lines were down shortly after the earthquake.
+
+There were also no available alternative data sources such as tsunami buoys.
+
+Lost or damaged tsunami buoys have often been reported. The Indonesian National Board for Disaster Management (BNPB) has frequently reported this, once on July 2011, then on March 2016, and on December 2017. This means that within the last seven years, none of the tsunami buoys have been replaced.
+
+We need to ask why haven’t the tsunami buoys been replaced if it is such a vital device in a scenario such as the Palu earthquake? Why wasn’t the replacement of damaged technologies a government priority? Who should be responsible? Did Indonesia’s House of Representatives (DPR) reject the proposal from related bodies?
+
+Increase public’s disaster preparedness
+
+A human-centered tsunami early warning system (TEWS) requires the commitment to invest in building the public’s awareness. Investing in at-risk communities must be done regularly and continuously from the district to the household level.
+
+It’s not enough to focus only on technological upgrading while disregarding the need to prepare the public against future tsunamis. It’s important to scrutinise how serious have Indonesia’s national and local governments implemented tsunami and earthquake awareness agendas.
+
+Accusing the community for stealing or vandalising tsunami buoys and calling them “murderers” is one thing, but reducing the problem of tsunami buoys into a criminal dispute would not solve the issue on disaster preparedness.
+
+Even if there are tsunami buoys, they are probably ten years old. Has there been routine maintenance? In Australia, for example, the Bureau of Meteorology routinely replaces tsunami buoys every two years. Seabed pressure sensors must also be regularly checked and cleaned from sediments and small sea creatures.
+
+This means that since InaTEWS was officially established and the buoys were used in 2008, it needed to have been replaced at least three to four times already. Depending on the type and resilience of the device, maintenance can be expensive and are not always reliable.
+
+Some experts have said that Palu does not even have tsunami buoys due to the lack of financial support from the government to the Agency for the Assessment and Application of Technology (BPPT), the agency responsible for managing the device.
+
+We need to question if adequate budget have been allocated for the maintenance of InaTEWS’s tsunami buoys for the last eight years. It’s possible that tsunami buoys were unavailable because they had stopped functioning due to want of care.
+
+Thus, when the government calls people who have stolen the buoys as “murderers”, they should be equally aware of their role in the death of hundred of victims for failing to provide InaTEWS with adequate maintenance and infrastructure upgrades.
+
+The uncertainty of the technology and system of TEWS
+
+Technology’s inherent weakness is embedded in its governance system and it’s also limited by context. The Geospatial Information Agency (BIG) needs to routinely upgrade and supervise the maintenance of tide gauges.
+
+Systems and equipment that depend on electricity frequently becomes a problem during large earthquakes. The importance of back-up energy systems like solar power has been frequently discussed (see the InaTEWS guide).
+
+In addition to the lack of information from Palu’s tide gauges and the absence of tsunami buoys, there have been critiques to the tsunami analysis model. Tsunami analysis models should take into account the characteristics of bay dynamics, the potential of underwater landslides, and the state of InaTEWS’s technology and systems.
+
+It’s easy to put all the blame on the BMKG, but everything is not always as it seems in Palu’s September 28 earthquake. We should also look at local and national bureaucracies for negligence in the maintenance of tide gauges and buoys. The problem with InaTEWS is its governance mechanism is complex because there many layers and levels of authorities involved.
+
+It’s also easy to accuse the local people for stealing InaTEWS asset such as tsunami buoys without educating the them on disaster preparedness.
+
+The element of speed and accuracy are crucial in any tsunami early warning system (TEWS). The principle of technology development according to Moore’s law stipulates that new technology arrives every 18-24 months. This implies the need to upgrade the old ones regularly.
+
+How would InaTEWS operate a system that can effectively protect its people if the system is not routinely enhanced according to technological advancement? How are we supposed to have a state-of-the-art system if policy makers do not support the budget for technological upgrading?
+
+Additionally, one of the most vital components in Indonesia’s early warning system is the Indonesian people. Communities should be able to adapt and anticipate future disasters independently and sustainably.
+
+Regional disaster management reforms
+
+Because TEWS was set up to protect people, consistent tsunami and earthquake risk awareness building is a must. Emphasis must be made on people and governance systems to ensure the early warning system works well.
+
+There should be bureacratic reforms in Indonesia’s local disaster management to improve InaTEWS’ service at local level. The Regional Disaster Management Agency (BPBD) and Operations Control Centre (Pusdalops) should act as the vanguard to provide district and city-level disaster information and warnings instead of a purposeless bureaucratic display.
+
+Without bureaucratic improvements and public service reforms along the whole InaTEWS chain, from the centre to the regional level, along with public awareness building at grassroots level, it would be impossible for Indonesia to withstand future tsunamigenic earthquakes.

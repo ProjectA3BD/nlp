@@ -1,0 +1,39 @@
+JAKARTA, Indonesia, & SCOTTSDALE, Ariz.--(BUSINESS WIRE)--JDA Software, Inc., today announced that GarudaFood, a leading Indonesia snack food and beverage manufacturer has extended its JDA footprint to take its supply chain processes to the next level, with JDA® Enterprise Supply Planning. Combining its current JDA® Demand and JDA® Fulfillment with JDA Enterprise Supply Planning will give GarudaFood the ability to dynamically optimize its inventory plans in real-time and re-plan around supply chain disruptions as conditions change. PT Kualitas Tekhnologi Asia will provide local implementation support for this deployment.
+
+GarudaFood is part of the Tudung Group and was founded in 1990. In 1987, it started selling its peanut products, and in 2010, GarudaFood expanded its operations outside Indonesia. Today, GarudaFood products are also exported to more than 20 countries around the world.
+
+GarudaFood recognized the importance of its supply chain to their business and growth strategy, and working with Deloitte, conducted a study of their existing system and recommended improvements, ahead of their plans to go public. After the analysis was complete, GarudaFood selected JDA over a large enterprise service provider because JDA had the requisite food and beverage industry expertise combined with the most powerful, end-to-end digital supply chain planning solution. Teaming with JDA will give GarudaFood a stronger integrated production planning system and bring their previously manual processes to the digital age.
+
+“We are poised to grow our business substantially and in order to fuel that growth and maintain profitability, it is imperative that we deploy a world-class supply planning solution. JDA will help us execute operationally while driving higher levels of customer satisfaction,” said Fransiskus Johny, Managing Director of Indonesia Operations, GarudaFood. “We chose JDA not only because of its solutions and industry expertise, but because we knew we’d cut down our time-to-value with deploying this project faster. This project will unite critical inventory and demand information for a 360-degree view into supply plans, an important piece we were missing previously.”
+
+GarudaFood has been using JDA Demand and JDA Fulfillment for seven years and needed a more holistic view into production plans than its previously manual processes. With unconstrained plans, they faced a mismatch in production and replenishment plans leading to out-of-stock situations and excess inventory.
+
+JDA Enterprise Supply Planning will help GarudaFood build one globally synchronized plan that senses and responds profitably and quickly to supply and demand volatility, driving increased customer satisfaction and supporting higher profit. With its ability to optimize constraints, margins and costs across production, distribution, inventory and procurement, JDA Enterprise Supply Planning will help to improve GarudaFood’s service levels and delivered costs as well as asset utilization.
+
+“GarudaFood has gone from a local supply chain to a global supply chain, with its expansion outside of Indonesia and with that expansion, needed a global supply chain planning solution to provide the level of sophistication and planning velocity required,” said Amit Bagga, president, APAC, JDA. “We are pleased to support GarudaFood in its JDA expansion, enabling them to have a highly responsive and agile supply chain capable of sensing to demand signals and disruptions, and ultimately delivering a superior customer experience.”
+
+Additional Resources:
+
+Tweet this: GarudaFood Expands @JDASoftware Footprint to Digitalize its #SupplyChain: http://bit.ly/2L3gMdj
+
+About JDA Software, Inc.
+
+JDA Software is the leading supply chain software provider powering today’s digital transformations. We help companies optimize delivery to customers by enabling them to predict and shape demand, fulfill faster and more intelligently, and improve customer experiences and loyalty. More than 4,000 global customers use our unmatched end-to-end software and SaaS solutions to unify and shorten their supply chains, increase speed of execution, and profitably deliver to their customers. Our world-class client roster includes 75 of the top 100 retailers, 77 of the top 100 consumer goods companies, and 8 of the top 10 global 3PLs. Running JDA, you can plan to deliver. www.jda.com
+
+Social Networks:
+
+Web: https://jda.com
+
+Blog: https://blog.jda.com
+
+Facebook: https://www.facebook.com/JDASoftwareGroup
+
+Instagram: https://www.instagram.com/jdasoftware/
+
+LinkedIn: https://www.linkedin.com/company/jda-software
+
+Twitter: https://twitter.com/JDASoftware
+
+YouTube: https://www.youtube.com/user/JDASoftware
+
+“JDA” is a trademark or registered trademark of JDA Software Group, Inc. Any trade, product or service name referenced in this document using the name “JDA” is a trademark and/or property of JDA Software Group, Inc.

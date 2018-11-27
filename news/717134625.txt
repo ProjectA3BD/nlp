@@ -1,0 +1,47 @@
+Small businesses and individuals to enjoy a more cost-effective way to send and receive payments in Indonesian Rupiah
+
+JAKARTA, Indonesia, Dec. 21, 2017 /PRNewswire/ -- Pundi X, a cryptocurrency point-of-sale ("POS") solutions provider for retail stores, today announced that it has partnered with Stellar.org, a Silicon Valley non-profit organization that supports the Stellar network, an open-source blockchain network that provides interoperability between financial institutions and different payment systems.
+
+Under the agreement, Pundi X will integrate with the Stellar protocol to become an Indonesian Rupiah anchor on the network, enabling businesses and individuals to send and receive cross-border payments faster and at a lower cost. Additionally, Pundi X will start to support Stellar's native currency Stellar Lumens (XLM) in its cryptocurrency POS solution platform.
+
+Stellar's distributed ledger provides an instant clearing and settlement platform, allowing money to move directly between people, companies and financial institutions in real-time, as easily as sending an email message. Within the network, XLM serves as the bridge between pairs of different currencies.
+
+The network enables frictionless, scalable, and virtually-free cross-border payment transactions. It has been proven to securely process over 1,000 transactions per second and already has a billion unique user accounts. As a key partner, Pundi X will become the credit issuer to the Stellar network for deposits converted to or from Indonesian Rupiah.
+
+Today, over 75 percent of Indonesian export and import activities are conducted in US dollars. However, Bank Indonesia plans to diversify the use of currencies in international trade. The partnership between Pundi X and Stellar.org will encourage businesses to send and receive payments in Indonesian Rupiah due to improved efficiency.
+
+"We hope to increase the volume of international trade settled in local currencies by leveraging the benefits of blockchain and cryptocurrency," said Zac Cheah, CEO of Pundi X. "Together with the Stellar Network, Pundi X can facilitate faster cross-border payment with lower costs and we aim to assist Bank Indonesia in increasing the use of the Indonesian Rupiah in international trade."
+
+Pundi X aims to solve the last mile challenge for cryptocurrency transactions with its point-of-sale ("POS") solutions. Every Pundi X POS device can be connected to the blockchain enabling consumers to easily buy or sell cryptocurrencies (BTC, ETH, XEM, LTC, XLM, PXS, QTUM tokens) using fiat money ( US Dollars, Rupiah, Baht, etc.), bank card, mobile wallet or with an NFC-enabled Pundi X Pass.
+
+"We're excited to welcome Pundi X as an anchor to the Stellar network and believe this collaboration can potentially scale the volume of Indonesian Rupiah settlements, especially among the many under-banked citizens and small businesses," said Jed McCaleb, co-founder of Stellar.org.
+
+About Stellar.org
+
+Stellar.org is a Silicon Valley-based non-profit organization that supports the Stellar network, a free, open-source network that connects diverse financial systems and lets anyone build low-cost financial services—payments, savings, loans, insurance—for their community. The Stellar network enables money to move directly between people, companies and financial institutions as easily as email. This interconnectivity means more access for individuals, lower costs for banks, and more revenue for businesses. For more on Stellar.org, visit https://www.stellar.org.
+
+About Pundi X
+
+Pundi X is a cryptocurrency point-of-sale ("POS") solutions provider for retail stores seeking to accept digital currencies in South East Asia. Pundi X POS enables shops, cafes and convenience stores to sell cryptocurrency to the average consumer and builds on the success of Pundi-Pundi, which is one of Indonesia's most popular QR code cashless payment apps. Pundi-Pundi has already signed up more than 100,000 registered users and over 500 merchant partners in Jakarta in less than a year of operation.
+
+Pundi X public token sale starts on January 21, 2018 with the aim of financing over 700,000 Pundi X POS devices to be installed over the next three years across all target markets.
+
+For more information, please visit: https://pundix.com/.
+
+You can also find us on the following social media channels:
+
+Twitter: https://twitter.com/PundiXLabs
+
+Telegram: https://t.me/pundix
+
+Medium: https://medium.com/pundix
+
+Facebook: https://web.facebook.com/pundixlabs
+
+Youtube: https://www.youtube.com/channel/UCOIf6WeLEzZi3DQxzenTZeA
+
+Instagram: https://www.instagram.com/pundi_x/
+
+View original content:https://www.prnewswire.com/news-releases/pundi-x-integrates-with-the-stellar-network-to-make-indonesian-rupiah-cross-border-payments-faster-and-less-costly-300574496.html
+
+SOURCE Pundi X

@@ -1,0 +1,23 @@
+caption Islamist groups protesting against the treatment of Rohingya Muslims, in Jakarta, Indonesia September 6, 2017. source Reuters/Darren Whiteside
+
+Good morning! Here is the tech news you need to know this Tuesday.
+
+1. Hackers breached Equifax not once but twice, with the firm learning about a major breach in March, before the second, massive hack which compromised customers’ financial details. Equifax never disclosed the first hack, and it isn’t clear whether any personal details were leaked.
+
+2. Chipmaker Intel said it’s been working with Google’s Waymo on self-driving cars since 2009. CEO Brian Krzanich revealed the firm supplied chips, field programmable gate arrays for machine vision, and gigabit ethernet for the autonomous vehicles.
+
+3. Anyone who downloaded CCleaner between mid-August and mid-September probably got an unexpected extra – malware. Hackers hijacked the popular PC cleanup tool to distribute a trojan, affecting almost 3 million users.
+
+4. Facebook is reportedly ‘silencing’ persecuted Rohingya activists in Burma, removing posts which document the ethnic cleansing currently underway. They told the Daily Beast their accounts are often suspended or posts are taken down.
+
+5. Uber is suing an ad agency for alleged click fraud. The firm has filed a lawsuit alleging that Fetch, owned by Japan’s Dentus Aegis group, claimed credit for app downloads it had nothing to do with.
+
+6. Amazon’s algorithms reportedly suggest customers buy dangerous groupings of products which could create explosives. If you buy certain chemicals, Amazon’s suggested products algorithm encourages you to buy other products that would make a deadly combination.
+
+7. Samsung is rolling out an update that will finally let owners of the latest Galaxy phones disable the dedicated button for Bixby, the Korean firm’s virtual assistant. People still won’t be able to map a new function to the button though.
+
+8. Uber is facing a five-year bill of £2.9 million if it continues to operate in London. Transport for London has quietly hiked up the fees it charges for private hire operators with more than 10,000 vehicles.
+
+9. Apple’s new A11 chip, which powers the iPhone X, iPhone 8, and iPhone 8 Plus, is more powerful than 2017’s MacBook Pro models. The phones are all considerably faster than any competition out there at the moment.
+
+10. Google is trying to avoid another massive EU fine, by offering to show rivals’ shopping sites via an auction in its search results. But EU regulators dismissed Google’s suggestions as inadequate, according to Reuters.

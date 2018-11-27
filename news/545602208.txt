@@ -1,0 +1,83 @@
+Singapore has set its sights on being the world’s first ‘smart nation’, a goal which promises to improve daily life for citizens and deliver a sustainable, efficient energy system which seamlessly integrates renewable power with conventional sources.
+
+But this vision of a country where energy management is sustainable, safe, and effortless is dependent on a vast array of technology working behind the scenes to collect, analyse, and transmit data in real time.
+
+Many of these technological solutions, however, are still in their infancy. To accelerate their development, the country’s government has been pumping in vast amounts of investment into research and development (R&D).
+
+In January for example, Prime Minister Lee Hsien Loong unveiled a new Research Innovation Enterprise 2020 (REI2020) plan, which promises S$19 billion in funding for R&D in science and technology over the next five years.
+
+As firms all over the country try to ride the wave of investment in smart technology R&D, Norwegian energy and advisory services firm DNV GL says it is perfectly poised to help develop smart energy solutions for Singapore and the region.
+
+As Kees-Jan van Oeveren, director & country manager of DNV GL’s Clean Technology Centre in Singapore puts it, the company’s experts can “contribute to the advancement and new technology development for the energy sector”.
+
+“We also work with industry and academic partners for external R&D projects, developing innovative solutions that could be directly applied in the regional context,” he adds.
+
+The multinational outfit, which is the result of a 2013 merger between Norwegian firm Det Norske Veritas (DNV) and German classification society Germanischer Lloyd (GL), has set up a specialised Clean Technology Centre (CTC) in Singapore since 2010.
+
+The state-of-the-art facility, located in the island’s Science Park research district, offers a range of services to companies and government agencies, including energy advisory, testing, and certification.
+
+The centre is also at the heart of DNV GL’s efforts to develop new energy technologies in Singapore and help other companies do the same, thanks to a small but dedicated R&D unit which operates out of the CTC.
+
+The four-member team was established in August 2013, and is in charge of DNV GL’s internal and external R&D presence, explains van Oeveren.
+
+The research team not only collaborates with its counterparts in Norway, the United Kingdom, and United States to build the company’s own portfolio of software and services, it also collaborates with industry and academic partners in Singapore to develop energy technology solutions.
+
+Smart, resilient, and safe
+
+Much of the R&D team’s work focuses on smart asset management, a broad term which refers to the use of data to monitor and control how the various components - or assets - in an energy facility work.
+
+These can include power sources, transmission cables, switches, and the devices which consume energy.
+
+Smart asset management is essential to maximising the efficiency and reliability of energy systems which integrate renewable energy with fossil fuel sources, says van Oeveren.
+
+For example, it can forecast energy usage patterns and predict when power demand will exceed the available renewable capacity. It then automatically increases input from conventional sources to ensure the grid does not fail.
+
+By using smart asset management tools, owners of wind or solar plants can also receive detailed data on how and when renewable energy is generated, and the wind or light conditions which result in maximum efficiency.
+
+This information is useful in improving the productivity of new energy technologies - and eventually reducing the life-cycle cost of a power system, says van Oeveren.
+
+Singapore has already initiated several pilot projects to integrate wind and solar into its energy grid. In October 2014 for example, the country’s National Environment Agency and Economic Development Board supported a S$8 million project by the Nanyang Technological University to build a hybrid microgrid on the offshore island, Pulau Semakau, which will integrate multiple large-scale renewable energy sources.
+
+On Pulau Ubin, another island off Singapore’s north-east coast, the Energy Market Authority is also conducting a test-bed study which studies the impact of solar power on a microgrid.
+
+Despite the many benefits of smart asset management, there are also challenges inherent in the process, and the R&D unit is focused on plugging these gaps, says van Oeveren.
+
+Sometimes, for example, systems lack the infrastructure to collect and convey the type of data that smart asset management software requires, and in other instances, the information collected is not detailed enough or properly structured.
+
+It can also be difficult to perform data analysis in real time to prevent grid failures, and it is also not easy to convert a large volume of data into tangible results.
+
+“The DNV GL R&D unit will develop new tools and solutions to solve these challenges,” he says. These include software which can consolidate data at a large scale, and make it more usable in real-world applications.
+
+“ Our research work will provide new tools to help power system operators monitor and share data, and help them make well-informed business decisions in the real world Kees-Jan van Oeveren, director & country manager, Clean Technology Centre Singapore , DNV GL
+
+Solutions for Singapore and Southeast Asia
+
+Since it was launched, the unit has already lent its technical expertise – and DNV GL’s custom-built suite of energy management tools – to various public, private, and academic sector partners in Singapore.
+
+In 2014, for example, the team embarked on a joint industry project with NTU’s Energy Research Institute at NTU (Erian) to test-bed the idea of a smart energy community.
+
+For this project, DNV GL draws on its part experience in building a ‘PowerMatching City’ in the Dutch city of Hoogkerk in 2009. Here, the company, in partnership with several energy firms, installed smart appliances in 45 homes in the city, and connected the residences to one another to create a small energy ecosystem.
+
+The smart appliances allowed residents to maximise savings and reduce energy wastage, while the data and grid connections between homes allowed users to sell energy generated on-site to one another, or back to the grid.
+
+The NTU test-bed, which is still on-going, follows a similar model. It recently secured some funding under the REI2020 plan, and allows researchers to test out the technical and policy feasibility of several smart energy strategies in the Singapore context.
+
+These include demand response - a practice where the grid automatically reduces non-essential energy usage to free up power supply for sudden spikes in demand - and smart building management, where a facility’s energy use is automatically regulated by a network of sensors and controllers.
+
+Beyond public sector projects, DNV GL’s is also working with private sector players such as Singaporean developer Surbana Jurong to develop a tool to monitor and manage energy use in building elevators.
+
+Thanks to its solid partnerships across various sectors, DNV GL will enable knowledge transfer from research partners to industry and universities, says van Oeveren.
+
+He adds that the company invests heavily in building its research and innovation capabilities, and can lend its expertise to other companies as an independent R&D contractor to firms, in instances where the financial risk of investing in setting up an in-house R&D team is too high.
+
+The company also has its sights on helping other countries in the region as they move to upgrade their own energy systems to smart and sustainable ones.
+
+The whole region struggles with an “energy trilemma” - that is, the three-fold pressure to increase power generation capacity while reducing emissions, and keeping electricity affordable.
+
+Energy experts point to renewable energy as a key strategy to manage this trilemma, and many countries such as the Philippines, Thailand, Indonesia and Malaysia have also set targets to dramatically scale up the share of wind, solar, and other sources of clean power power in their energy mixes.
+
+This commitment will require them to integrate new clean technologies into ageing infrastructure, offering new growth opportunities for the smart grid and energy management industry.
+
+To achieve these goals, “a smarter grid monitoring, operation, and control system will be a must,” says van Oeveren, adding that the grid of the future will rely heavily on information technology and cyber security to monitor and control its various components.
+
+“Our research work will provide new tools to help power system operators monitor and share data, and help them make well-informed business decisions in the real world,” he notes.

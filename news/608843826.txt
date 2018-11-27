@@ -1,0 +1,17 @@
+KANSAS CITY, Mo. & MELBOURNE, Australia--(BUSINESS WIRE)--DSI announced today that PT Chandra Asri Petrochemical Tbk has selected DSI’s Digital Supply Chain Platform™ to automate the company’s manufacturing and warehouse operations.
+
+PT Chandra Asri Petrochemical Tbk (hereafter: Chandra Asri) is the largest integrated petrochemical company in Indonesia. The company operates Indonesia’s only world-scale naphtha cracker, a system used to create the petrochemicals required to manufacture a wide array of everyday products. The Chandra Asri plant is strategically located in the port of Ciwandan in Cilegon, Banten province, providing convenient access to key customers. To support growing needs in the supply chain, Chandra Asri required a proven mobile-first solution that could be personalized to fit their unique business requirements.
+
+Chandra Asri identified several points in the supply chain as opportunities for improved efficiency and accuracy. To accomplish those improvements, the company required a solution to support all inbound and outbound logistics on any mobile device. Chandra Asri chose DSI for its pre-built, certified integration to SAP as well as its suite of configurable mobile-first supply chain apps.
+
+“As Chandra Asri grows, we need to invest in an advanced mobile-first enterprise solution that connects real-time to any system of record,” says Adhi Rachman, IT Head at Chandra Asri. Adhi continues, “We conducted an in-depth evaluation of all the alternative solutions and it quickly became obvious DSI offers the most comprehensive solution fully integrated with our SAP instance. In addition, DSI’s reputation for partnering with SAP customers in the Asia Pac region made DSI the evident choice.”
+
+“DSI’s suite of digital supply chain solutions is ideal for resources companies such as Chandra Asri that want to achieve immediate cost reductions and efficiency gains. And, because DSI provides a single platform to harness technologies from analytics to the Industrial Internet of Things (IIoT), Chandra Asri has a solution to enable the digital transformation of their supply chain,” says Mark Goode, Chief Revenue Officer, DSI. “DSI’s Digital Supply Chain Platform delivers the visibility and accuracy critical to staying competitive in today’s global resources markets.”
+
+About DSI
+
+DSI is the Digital Supply Chain Platform™ company that creates mobile-first and cloud supply chain solutions for the digital economy. Visit www.dsiglobal.com to learn more.
+
+About Chandra Asri
+
+Chandra Asri, a subsidiary of PT Barito Pacific Tbk as the majority shareholders, is Indonesia’s largest integrated petrochemical company producing olefins and polyolefins. Chandra Asri incorporates state-of-the-art technologies and supporting facilities located in Cilegon and Serang of Banten Province. Chandra Asri is the only producer who operates a naphtha cracker, and is the sole domestic producer of ethylene, styrene monomer and butadiene. In addition, Chandra Asri is also the largest polypropylene producer in Indonesia. Chandra Asri produces plastic raw materials and chemicals used for packaging products, pipes, automotive, electronics, etc. For more information, please visit www.chandra-asri.com.

@@ -1,0 +1,61 @@
+Just when Uber's exit appears to have left Singapore's ride-hailing field wide open for Grab, new players are preparing to enter the turf.
+
+Singapore
+
+JUST when Uber's exit appears to have left Singapore's ride-hailing field wide open for Grab, new players are preparing to enter the turf.
+
+Five new and diverse players - two of which use blockchain and cryptocurrency - are entering the fray, The Business Times has learnt. Go-Jek, Dacsee, Jugnoo, Ryde and MVL are set to reinstate competition in the ride-hailing sector, and put to rest fears of a Grab monopoly by the Competition and Consumer Commission of Singapore (CCCS).
+
+Hugh Mason, chief of corporate innovation firm JFDI, told BT that the dynamism in Singapore's ride-hailing market is "fantastic". "Just within a few years, the disruptors are being disrupted themselves."
+
+sentifi.com Market voices on:
+
+Isaac Ho, a Singapore-based venture capitalist, added: "Even with the Grab-Uber merger, the ride-hailing space still presents a lot of opportunities, one of which is managing the supply side. Some Uber drivers were reportedly reluctant to join Grab's platform, over concerns that drivers' fees may increase, which means that ultimately, commuters will pay higher fares." He added: "Non-traditional players such as blockchain-based tech players may see this as an opportunity to disrupt the traditional commission-based model and reduce the fees imposed on drivers."
+
+Singapore-based MVL, for instance, said it is a not-for-profit firm, and wants to revolutionise the mobility industry by enabling the transparent sharing of all data related to driving, accidents, repairs and other mobility-related transactions.
+
+It plans to charge zero commission on all rides and only a negligible transaction fee for the maintenance of its platform.
+
+Its blockchain platform will track and gather data on vehicle activity. Participants who provide data will be rewarded with MVL Points, which can be converted into MVL Coins (the cryptocurrency used in MVL's ecosystem), and eventually exchanged for fiat money on cryptocurrency exchanges.
+
+Riders will be rewarded for rating and reviewing their drivers, while drivers will be rewarded for driving safely and recording driving data.
+
+MVL founder Kay Woo said: "The recent consolidation of the two major ride-hailing players and rapid advancement of the distributed ledger technology make it possible for us to offer our platform to create a transparent and accountable mobility ecosystem that rewards all participants."
+
+Dacsee, a Malaysia-headquartered blockchain player, will launch in Singapore in the second quarter of 2019, BT has learnt. Dacsee wants to reduce the commission charged to drivers to between 1 and 2 per cent, down from the current market rate of 25 per cent.
+
+It said that while current ride-hailing platforms use their commission to pay for overheads or shareholders, Dacsee's blockchain system will redistribute its commission to the drivers, commuters and the local authorities on its platform.
+
+To date, it has amassed over 30,000 drivers across Asia on its platform, and raised over US$25 million in funding.
+
+Kenneth Tan, co-founder of Singapore-based cryptocurrency crowdfunding platform FundYourselfNow, told BT that the benefits of using blockchain in ride-hailing are clear: "It removes the middleman, allows for lower costs, and provides a platform to encourage good behaviour in all participants and distribute rewards to them in a fair manner."
+
+Mr Tan said a key challenge will be user adoption, as drivers and commuters will need to understand and accept cryptocurrency, and learn how to cash out and manage cryptocurrency safely. "It's going to take a while."
+
+Meanwhile, Go-Jek - Indonesia's first unicorn startup that popularised motorcycle taxis - will launch here in the "next few months", a source close to Go-Jek told BT. At launch, Go-Jek will offer only car-hailing services; motorcycles are barred from providing point-to-point transport services in Singapore. Go-Jek also plans to launch other services such as food delivery later, the source added.
+
+Go-Jek is also in talks with taxi giant ComfortDelGro to explore a potential partnership, the source confirmed to BT.
+
+Go-Jek, which has raised at least US$2.1 billion since its 2010 founding, is backed by investors including Temasek, Tencent and Sequoia Capital.
+
+Jugnoo, believed to be India's third largest ride-hailing player after Uber and ola, will launch here on May 1 with a target of 500 drivers. It will debut in Singapore a "reverse bidding" model, in which drivers bid a price for each ride, and riders choose a driver based on price, driver rating and the time taken for the driver to reach them.
+
+Jugnoo chief Samar Singla said: "We are very excited about our launch in Singapore. We saw a vacuum and analysed the issues currently being faced in the ride-hailing market of Singapore. We believe that an open driver-commuter network is a need of the hour."
+
+He told BT that Jugnoo is in talks with private agencies to recruit private-hire car drivers, and has signed up about 50 thus far. Jugnoo has not engaged taxi operators as taxi drivers work on metered fares and are not allowed to dictate prices, he said. But he is hoping that this will change after a consultation with the Land Transport Authority.
+
+On Thursday, homegrown firm Ryde announced that its private-hire car service, RydeX, will launch here on May 2. For a start, RydeX will offer two options - RydeX Scheduled, which lets commuters book a ride between 10 minutes and seven days in advance, and RydeEXEC, which is for booking luxury cars.
+
+Ryde chief Terence Zou said the company will launch an "on-demand" ride-hailing service when it attains a critical mass of 10,000 to 15,000 private-hire car drivers.
+
+The startup, which began as a carpooling service in 2015, has more than 5,000 private-hire cars on its platform. Through a "technical integration" with ComfortDelGro, commuters can also book a ride from over 15,000 ComfortDelGro taxis through the Ryde app.
+
+CCCS, when asked if it was aware that competition in the ride-hailing sector is on its way, said: "We note that there is some news on potential new entrants. Entry of players into the market is a factor for consideration in our assessment."
+
+But it noted that "for new entrants (actual or threatened) to be considered as a sufficient competitive constraint", three conditions must be satisfied, that is the entry must be "likely", "sufficient in extent" and "timely".
+
+"We will determine if there is substantial lessening of competition in this case when we complete our assessment of the investigation, taking into account all relevant facts and circumstances."
+
+Grab on Thursday declined to comment on the new competition.
+
+READ MORE: New ride-hailing app Jugnoo lets drivers bid a price for rides

@@ -1,0 +1,13 @@
+Sixty-one percent of organizations either do not think about cybersecurity at all, or only after starting a new project. Almost seven out of 10 companies which had cyber attacks saw job losses in the last 12 months.
+
+"Companies face the risk of significant financial loss, damage to customer satisfaction and market reputation — as has been made all too clear by recent high-profile breaches," said Haris Izmee, president director of Microsoft Indonesia, in a statement last week.
+
+Last year, Indonesia saw over 205 million cyber-attacks, including the ransomware WannaCry that attacked the country's major hospitals, according to the Ministry of Communication and Information Technology.
+
+In calculating the potential losses, the study took into account direct financial losses from the attacks themselves, the opportunity cost to the organization caused by the incident, such as loss of customers because of reputation loss. The study also estimated cyber-attacks induced costs on the broader economy, such as a decrease in consumer and business spending.
+
+A large organization — one that has more than 500 employees — can possibly incur an economic cost of $16.3 million due to cyber-attacks.
+
+Of this, only $1 million is likely to be a direct cost to the company itself. Around $5.7 million is predicted to come from indirect costs, and $9.6 million to come from the induced costs.
+
+Over 90 percent of cyber-attacks can be prevented with maintaining most basic best practices, such as strong passwords, use of multi-factor authentications for suspicious log-in attempts and keeping all software up to date, Microsoft said.

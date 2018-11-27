@@ -1,0 +1,11 @@
+SINGAPORE - Singapore consumers may seem heavily wired up, but may have the worst habits when it comes to cyber hygiene when compared to their peers in Asean, a survey on Wednesday (Oct 3) showed.
+
+A study by enterprise software provider VMware Inc showed that 45 per cent of those surveyed in Singapore do not take proper measures to secure their financial data, by using the same passwords across services and apps that contain personal payment data. This is the highest percentage in South-east Asia.
+
+To add, a majority of the Singapore consumers surveyed store their bank account details on at least one to six mobile applications, yet just about 14 per cent of them are using different passwords for all their accounts. This gives Singapore the country the dubious honour of having the least cyber hygiene of those surveyed in the region, with the regional average at 24 per cent.
+
+Their lax attitude aside, Singapore consumers are simultaneously more sceptical towards the level of security afforded by new payment methods than their counterparts in the region, and find more comfort in traditional payment methods such as cash and ATMs. Specifically, 53 per cent of Singapore consumers polled found e-payment wallets and apps safe - again, the least in South-east Asia.
+
+VMware Inc said that to meet the needs for mobile-first consumers, "forward-thinking" banks are already gaining traction by offering biometric payment, with at least three-quarters of consumers in the region placing high trust in the technology, alongside cash payment.
+
+VMware conducted the study in September this year with 6,000 consumers in Indonesia, Malaysia, Singapore, the Philippines, Thailand and South Korea.

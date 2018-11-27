@@ -1,0 +1,51 @@
+On World Wetlands Day on February 2nd, Indonesia’s Geospatial Information Agency (BIG) will announce the winner of a competition to come up with the best method for mapping the nation’s peatlands. The winning team will be awarded a $1 million prize.
+
+For the rest of us, the competition could help save the wetlands that are critically important for Indonesian citizens as well as for the global battle against climate change.
+
+Peatland destruction: When draining the swamp is a bad idea
+
+Peat swamps are unique and underappreciated ecosystems, rich in both carbon and biological diversity. Peatlands form when dead plants partially decay in soils soaked with tannin-rich water, and organic matter gradually accumulates, layer upon layer, over hundreds or even thousands of years. Indonesia harbors some 36 percent of the world’s tropical peatlands, which store up to 20 times more carbon than non-peat mineral soils.
+
+Peat “domes” are complex hydrological formations that can range in thickness from half a meter to more than 20 meters deep. Peatland forests hold many times more carbon than a typical tropical forest, most of it below ground. Indonesia’s peatlands are also home to wildlife species including orangutans, Sumatran tigers, leopards and species of fish found nowhere else in the world.
+
+But peatland ecosystems are also fragile. Disturbing just the edge of a peat dome can affect the hydrology of the whole landscape. Once the above-ground natural vegetation is cleared and the dome is drained—oftentimes to make way for industrial agriculture—peat soils rapidly dry out and become highly flammable. The catastrophic land fires that periodically engulf large swaths of Sumatra, Kalimantan, and most recently, Papua, are concentrated in peatlands that have been converted to industrial oil palm and timber plantations.
+
+About half of Indonesia’s peatlands are now degraded. In addition to the annual burning – which in late 2015 cost the Indonesian economy $16 billion in losses, generated more daily greenhouse gas emissions than the entire U.S. economy, and led to 100,000 premature deaths — analysis also suggests that cultivated peatlands are experiencing rapid subsidence. This makes the country vulnerable to widespread flooding and loss of areas suitable for agricultural production in a matter of decades.
+
+Recognizing these risks, the Government of Indonesia has introduced a suite of initiatives designed to stop further peatland conversion and restore some of the drained and denuded area.
+
+The Peatland Restoration Agency established in 2016 aims to restore 2 million hectares (4.9 million acres) of peatlands within five years, and President Joko Widodo issued a decree establishing a moratorium on further commercial development of peatlands pending better mapping and zoning. The Ministry of Environment and Forests followed up with a series of implementing regulations.
+
+Poor maps: A main barrier to Indonesia’s peatland protection
+
+The problem is that Indonesia’s maps showing the location of the country’s peatlands are notoriously inaccurate, and don’t show the difference between shallow and deep peat. This lack of information provides cover for companies to continue peatland conversion as usual.
+
+agencies need better maps of peatland to enforce laws and regulations governing them, companies need them to comply with zero-deforestation commitments, and NGO watchdogs need them to hold both of those groups accountable.
+
+The politics of peatlands, like their carbon, are mostly below the surface. Despite presidential recognition of the urgent need to halt further peat development and restore peat domes before they collapse, pockets of resistance deep within some agencies are opposed to reform.
+
+Their sympathies lie with the owners of plantations on peat, and another imperative—maintaining the supply of fiber to Indonesia’s massive pulp and paper mills, much of which comes from acacia trees grown on peat. Clearly, drawing lines on maps that would facilitate enforcement of peatland regulations have significant financial consequences for affected companies.
+
+For that reason, it’s critical that the method for making those maps is transparent, credible and above political manipulation.
+
+The Indonesian Peat Prize: Mapping the unknown
+
+That’s where the Indonesian Peat Prize comes in. The prize is sponsored by BIG (which is mandated by Indonesian law to set standards for map-making), supported by an independent Scientific Advisory Board composed of Indonesian and international scientists, and funded by the David and Lucile Packard Foundation. The selection of the winner will be based on transparent criteria related to accuracy, timeliness and cost.
+
+The finalists competing for the prize are using a variety of innovative methods to meet those criteria. Each team is using one or more remote-sensing methods, including satellite imagery, airborne electromagnetic sensors, LiDAR and/or radar. This data is then combined with existing data sets, ground-truthing, and modelling to minimize the need for extensive (and expensive) field sampling to establish the edges and depth of peatland areas.
+
+The peat prize offers broader lessons on diplomacy
+
+The Indonesian Peat Prize illustrates how the often-fraught politics of international cooperation on forests can be overcome. In the book, Why Forests? Why Now?, authors analyzed those politics, with a focus on Brazil and Indonesia.
+
+In both countries, revolutions in remote-sensing technology that allows tree cover loss to be monitored by satellite have empowered local groups dedicated to improving forest management. Yet attention from the international media and advocacy groups has not always been welcomed due to perceptions that such attention infringes on national sovereignty and prioritizes global objectives at the expense of local needs.
+
+The Indonesian Peat Prize has managed to avoid such sensitivities. The prize is explicitly designed to support the Government of Indonesia’s One Map Policy to consolidate spatial information on a common, publicly accessible platform.
+
+The Prize process is led by an Indonesian government agency. International partners are providing the prize money and technical expertise for the Scientific Advisory Board. And each mapping team includes both Indonesian and international participants.
+
+Indeed, the prize will not only help protect globally important peatlands that also serve local interests; it will build new scientific collaborations that are likely to extend far beyond the prize process.
+
+It thus provides a positive example of how international cooperation can help accelerate progress toward solving politically sensitive local problems that have implications for all of us.
+
+Frances Seymour is a Distinguished Senior Fellow at WRI. Dr. Nirarta “Koni” Samadhi is the country director of WRI Indonesia. This article is republished from the WRI Insights blog.

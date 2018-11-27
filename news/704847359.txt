@@ -1,0 +1,11 @@
+HONG KONG--(BUSINESS WIRE)--EMQ, a Fintech innovator with an extensive remittance network in Asia, today announced its extended partnership with WeChat Pay HK, a payment service provider and a stored-value facility licensee in Hong Kong, to expand its remittance services in Indonesia. The newly launched Indonesia corridor is building on the success of the Philippines corridor, which has been fully deployed and operational since early this year.
+
+“Both Philippines and Indonesia are currently among the top 10 largest recipients of remittances according to the World Bank, with millions of households relying on the financial support of the overseas workers,” said Max Liu, Co-founder and CEO of EMQ. “We are proud to support and partner with Tencent’s WeChat Pay HK in making the services more accessible and inclusive to the hard-working overseas workers leveraging our extensive remittance network in Asia.”
+
+Powered by EMQ's scalable API platform, the partnership enables WeChat Pay HK to simplify the remittance process by allowing the overseas workers in Hong Kong to send money via a smart phone, providing a faster and seamless money transfer experience, while helping to drive greater financial inclusion across the Philippines and Indonesia. The Filipinos and Indonesians who live and work away from home can now use WeChat Pay HK to enjoy a full range of pay-out options including instant cash pickup, bank deposits to any bank, or mobile wallet wherever they are to support their families in hometown.
+
+EMQ currently has footprint in Hong Kong, Taiwan, Indonesia, Vietnam and the Philippines, with plans underway to expand across other key business markets first in Asia and then globally, covering North America, Europe and the Middle East. The company received its Fund Transfer Operator license from Bank Indonesia in March 2017.
+
+About EMQ
+
+Headquartered in Hong Kong, EMQ is a financial technology startup that is building a financial network across Asia with a focus on remittance. With a footprint across Hong Kong, Taiwan, Indonesia, Vietnam and the Philippines, the company partners with financial institutions and other strategic partners in each country to enable and settle cross-border remittance via banks and various modes for top-up and last mile delivery.

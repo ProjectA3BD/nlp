@@ -1,0 +1,57 @@
+One of the world’s biggest palm oil companies is testing new GPS-based technology to trace the provenance of palm fruit all the way back to the plantation where it was grown.
+
+But Singapore-listed Golden Agri-Resources (GAR), which manages more than 5,000 square kilometers (1,940 square miles) of plantations in Indonesia—an area the size of Grand Canyon National Park—acknowledges that the opaque nature of the supply side of the industry makes the endeavor a challenging one.
+
+Earlier this year, GAR announced it had managed to trace its supply to the plantation level for the fruit supplied to all 44 of its own mills. But this accounts for just 39 per cent of the company’s total palm oil supply.
+
+The bulk of GAR’s palm oil is processed by some 427 third-party mills; the company says it hasn’t been able to trace their supply chains down to the plantation level, and has now turned to an experimental GPS-based system to shine a light on these supply chains.
+
+“We’ve finished tracking our third-party mills, but we haven’t been able to track our fruit from the mills to plantation level,” Agus Purnomo, GAR’s chief sustainability officer, told Mongabay during the recent Sustainable Resources Dialogue in Singapore. “Sometimes the third-party mills don’t even know where the fruit they process come from.”
+
+Achieving full traceability along the supply chain for a company that supplies more than 7 million tons of palm oil a year is a challenging task, GAR says, noting that it sources the commodity from hundreds of suppliers who in turn buy their palm fruit from tens of thousands of growers.
+
+To establish a tracking and verification system for these third-party mills, the company says it’s working with a network of partners, with the ultimate goal of achieving full traceability by the end of 2020.
+
+“ “The most progressive palm producers are now sending a message that in the near future, non-transparent sourcing will not be acceptable.” Pierre Courtemanche, CEO, GeoTraceability
+
+Push for traceability
+
+Palm oil is one of the most widely used commodities in the world, found in items ranging from cosmetics and processed foods, to biofuels.
+
+The industry that produces it, however, has long been associated with the wholesale destruction of forests in Indonesia and Malaysia—which together supply 90 per cent of the world’s palm oil—prompting a consumer backlash and calls for transparency and sustainability. To achieve this, producers, traders and consumers need to establish a chain of traceability that can track the provenance of the palm fruit down to the farm on which it was grown.
+
+To address the issue with regard to its third-party suppliers, GAR has partnered with Koltiva, an Indonesian IT and software consulting startup with previous experience creating web- and mobile-based applications for traceability in the cocoa industry.
+
+Koltiva sent out an army of 200 surveyors to oil palm farms to map their coordinates and issue the farmers with a unique ID.
+
+“They’ve been working with us in mapping independent small farmers since four months ago,” Agus said. “We know their exact coordinates.”
+
+To date, Koltiva has mapped and verified 90 square kilometers (35 square miles) of plantations owned or managed by 4,168 farmers, as well as registered 16 agents or middlemen to whom the farmers typically sell their crop.
+
+“This process takes some time because they have to ask for permission from the landowner,” Agus said. “This engagement process can’t be rushed.”
+
+GAR is also working with GeoTraceability, a Canadian company, to manage the data for all the farms. The company’s software has also been deployed at GAR’s own processing mills in Indonesia’s Riau province.
+
+Pierre Courtemanche, CEO of GeoTraceability, said it was important to view small farmers not as statistics, but as active participants in dynamic, traceable supply chains.
+
+“The most progressive palm producers are now sending a message that in the near future, non-transparent sourcing will not be acceptable,” he said in a press release.
+
+Rahmawati Retno Winarni, the executive director of TuK Indonesia, an NGO that advocates for social justice in the agribusiness sector, welcomed the push to improve traceability, but emphasised that the technology should ultimately benefit the farmers.
+
+“Companies have to make sure that the technology isn’t just used to improve their image, but also benefit the farmers,” she told Mongabay at the Singapore conference. “These farmers need infrastructure, training and equipment as well.”
+
+Koltiva executive director Ainu Rofiq said the traceability initiative would benefit the farmers in addition to GAR, including by providing them with information on best practices, and boosting their access to international markets with stringent traceability requirements.
+
+Middleman dilemma
+
+GAR announced its sustainability policy, called GAR Social and Environmental Policy (GSEP), back in 2015, with the goal of achieving full traceability to palm oil mills as well as to plantations.
+
+At the time, Agus was skeptical about being able to trace the entire supply of palm fruit down to the plantation level.
+
+“There is no way you know exactly [where all the palm fruit comes from],” he told Mongabay in 2015. He said the main problem with achieving that level of traceability was that the third-party mills that GAR sourced the bulk of its palm oil from often bought palm fruit from middlemen who collected it from various farms.
+
+Because farmers are free to sell to any middleman, it’s virtually impossible to track the provenance of individual batches of palm fruit, Agus said.
+
+“Where we buy this week will be different from where we buy next week,” he said in the 2015 interview. “That’s because the farmers who are committing to one middleman [may] decide the following week they will sell to another one. It’s a very dynamic system.”
+
+This story was published with permission from Mongabay.com. Read the full story.

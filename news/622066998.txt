@@ -1,0 +1,59 @@
+[Photo: From left to right] Wana Sedayu, JOC Presale Team Leader of PT. Fujitsu Indonesia Hirotatsu Kawata, JOC Sales Country Head of PT. Fujitsu Indonesia Kazuhiro Uchida, President and CEO of SAISON INFORMATION SYSTEMS CO., LTD. Yasuko Sakurai, Managing Director, HULFT Pte. Ltd. (Photo: Business Wire)
+
+[Photo: From left to right] Wana Sedayu, JOC Presale Team Leader of PT. Fujitsu Indonesia Hirotatsu Kawata, JOC Sales Country Head of PT. Fujitsu Indonesia Kazuhiro Uchida, President and CEO of SAISON INFORMATION SYSTEMS CO., LTD. Yasuko Sakurai, Managing Director, HULFT Pte. Ltd. (Photo: Business Wire)
+
+TOKYO--(BUSINESS WIRE)--SAISON INFORMATION SYSTEMS CO., LTD. (JASDAQ: 9640) (Headquarters: Toshima-ku, Tokyo; President: Kazuhiro Uchida; hereafter “SAISON INFORMATION SYSTEMS”) has today announced that its subsidiary in Singapore, HULFT Pte. Ltd., has signed a HULFT Implementation Partner Agreement (*1) with PT. Fujitsu Indonesia (Headquarters: Jakarta; President Director: Achmad Sunuadji Sofwan; hereafter “Fujitsu Indonesia”), as a partner working to promote HULFT products throughout the region. HULFT is a series of file transfer middleware products that has the fourth highest share of the market in terms of worldwide sales (*2), and the leading share of the domestic market in Japan (*3).
+
+Background to the HULFT Implementation Partnership Agreement
+
+Amidst remarkable economic growth throughout the ASEAN region, Indonesia in particular has seen a surge in the number of Japanese companies locating production and sales operations in the country, chiefly in the manufacturing industry. This has led to increased demand for data integration between Japanese companies and their overseas subsidiaries, for instance, or joint ventures they have set up with overseas companies, as they try to coordinate between different accounting and production management systems. As networks are more vulnerable than in Japan, there is also a real need to deal with issues such as data loss and high-volume data transfers. With existing corporate HULFT users in Indonesia starting to require additional support meanwhile, we felt the need for a partner which is able to swiftly install and develop HULFT products, so that we can cater to customer needs such as these. That is what led to signing an agreement with Fujitsu Indonesia, which has a proven track record and an excellent reputation amongst Japanese companies.
+
+Plans for the Future
+
+This agreement will enable HULFT Pte. Ltd. and Fujitsu Indonesia to create new business opportunities and expand operations in the file transfer, data integration and data conversion sectors in Indonesia, as part of sales, installation and support for HULFT Series products. In addition to offering technical support, training, secondary support and assistance with sales promotion in relation to HULFT Series products based on the HULFT Implementation Partner (HIP) Program, HULFT Pte. Ltd. will also provide Fujitsu Indonesia with powerful support for its own operations in Indonesia.
+
+Trademarks
+
+-“HULFT” and all “HULFT” related products are registered trademarks of SAISON INFORMATION SYSTEMS CO., LTD.
+
+-Names of other companies, products and services are registered trademarks or trademarks of the respective companies.
+
+References *1 Certified partner program focusing specifically on implementation services for HULFT Series products as part of the HULFT Partner Program (HPP), the global partner program for HULFT Series products *2 Source: IDC, Nov 2015, “Worldwide Managed File Transfer Software Market Shares, 2014: Year of Steady Growth” (#259975) *3 Source: Fuji Chimera Research Institute, Inc., “New Market of Software Business 2015” (based on packages/monetary value)
+
+HULFT
+
+(Product details: https://www.hulft.com/en/hulft-mft)
+
+Compatible with an ever-growing range of platforms since its launch in 1993, HULFT is file transfer middleware equipped with all the functions customers need to share files between business systems. There are currently 185,800(*4) HULFT licenses in use by 8,600 companies in 43 countries worldwide, spanning a wide range of industries. In addition to sending, receiving and managing file transfer jobs, products include peripheral functions essential to transferring files, including security and data integration before and after transfer.
+
+*4: As of the end of September 2016
+
+PT. Fujitsu Indonesia
+
+PT. Fujitsu Indonesia was established in 1995 by the name of PT Fujitsu Systems Indonesia. Headquartered in Jakarta with service points in big cities such as Jakarta, Surabaya and more 75 authorize service providers across Indonesia. Fujitsu Indonesia has a vision to be a leading customer-focused Information and Communication Technology (ICT) solutions provider in Indonesia. Fujitsu offers one-stop end-to-end solutions, covering from high-quality PCs to mission-critical Servers, business and manufacturing applications and ICT infrastructure. Customer portfolio of Fujitsu Indonesia spans across various industries and segments such as government, manufacturing, retail, oil & gas as well as telecommunication, including the largest telecommunication and manufacturing companies in Indonesia.
+
+Name: PT. Fujitsu Indonesia (FID)
+
+Headquarters: Wisma Keiai (10F), JI. Jend.Sudirman Kav.3, Jakarta, 10220, Indonesia
+
+Established: January 1995
+
+President: Achmad Sunuadji Sofwan (President Director)
+
+Website: http://www.fujitsu.com/id/
+
+SAISON INFORMATION SYSTEMS CO., LTD.
+
+Headquarters: Sunshine 60 (21F), 3-1-1 Higashi-Ikebukuro, Toshima-ku, Tokyo 170-6021, Japan
+
+Established: September 1, 1970
+
+President: Kazuhiro Uchida (President and CEO)
+
+Capital: ¥1,367,687,500
+
+Business activities: Financial systems, Retail service systems and IT solutions, HULFT
+
+Securities code: 9640 (Tokyo Stock Exchange, JASDAQ Standard Market)
+
+Website: http://home.saison.co.jp/english/

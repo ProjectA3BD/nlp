@@ -1,0 +1,31 @@
+Environmental activists are suing the Indonesian government for the release of records of mining licenses and concessions, in a move seen as crucial to bringing greater transparency to the extractives sector.
+
+The Mining Advocacy Network, known by its Indonesian acronym of Jatam, filed the lawsuit on Sept. 6 with the Central Information Commission, or KIP, the government clearinghouse for freedom of information requests. They cover so-called mining business licenses (IUP); public mining licenses (IPR), issued for mining operations with a limited concession and investment; and special mining business licenses (IUPK).
+
+The move comes after an initial request on July 2 for the data, in shapefile (SHP) digital mapping format, went unanswered by the Ministry of Energy and Mineral Resources. A follow-up on July 23 was also ignored, said Ahmad Saini, a Jatam activist.
+
+Shapefiles allow for much more sophisticated analysis of mapping data, and watchdogs say it is crucial that they have it if they are to play a monitoring role in the world’s third-largest forest nation.
+
+But obtaining files in this format has been a struggle, with the government saying it cannot reliably authenticate the files it releases. In response to a previous, separate request by Greenpeace for forest cover maps, the Ministry of Environment and Forestry said that because it could not watermark an SHP file as it could a JPEG or PDF file, the data must remain confidential. It warned that unauthenticated files, if released, could be doctored by unscrupulous parties and passed off as the real thing.
+
+But NGOs counter that it is quite simple to digitally sign an SHP file using the Kleopatra certificate manager. This would allow the ministry to certify and timestamp a document in such a way that any forgery could easily be debunked.
+
+In the current case, Jatam says having access to the mining data is an important part of being able to monitor concessions from which residents have been evicted for mining.
+
+“People in villages hardly know what’s going on, and all of a sudden a permit’s been issued,” Ahmad said.
+
+He said Jatam planned to overlay the mining maps onto maps from the Ministry of Agriculture and the Ministry of Environment and Forestry. “We want to see whether there’s any overlap,” he said, “for example, whether a mining concession overlaps onto a conservation zone or onto farmland.”
+
+Ahmad said he was confident the KIP would grant Jatam’s lawsuit because the mining maps requested were ostensibly public documents.
+
+“ People in villages hardly know what’s going on, and all of a sudden a permit’s been issued. Ahmad Saini, activist, Jatam
+
+He also said there was a legal precedent, at the provincial level, for such records to be released. Jatam has previously successfully sued for the release of similar mining records in East Kalimantan province. An identical request to the North Kalimantan provincial government was granted without the need for a lawsuit. Jatam is also awaiting the outcome of a lawsuit filed against the Central Sulawesi government for the same kinds of records.
+
+Ahmad said it was incumbent on the national government, represented by the Ministry of Energy and Mineral Resources, to set a good example for local governments nationwide and release the documents. Failure to do so, he said, would be a violation of the country’s Freedom of Information Act and go against a pledge by President Joko Widodo to boost transparency in government.
+
+“Indonesian law also stipulates that the government has to disclose plans for mining and exploration licenses,” he added.
+
+The story was reported by Mongabay’s Indonesia team and was first published on our Indonesian site on Sept. 6, 2018.
+
+This story was published with permission from Mongabay.com. Read the full story.

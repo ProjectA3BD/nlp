@@ -1,0 +1,19 @@
+PARIS--(BUSINESS WIRE)--LTE chipmaker Sequans Communications S.A. (NYSE: SQNS) announced that its LTE chipset has been selected by BOLT!, the 4G LTE service of PT Internux, pioneer of 4G LTE service in Indonesia, to power an LTE outdoor unit (ODU) that is now available and shipping to customers in Indonesia. Gemtek, world-leading maker of broadband wireless devices and a long time partner of Sequans, is the designer and manufacturer of the new device.
+
+“Only BOLT! offers outdoor CPEs in Indonesia and the demand from customers for wireless broadband access is very high,” said Billy Abe, Chief Product Officer of BOLT! “We are pleased to offer this exceptional new LTE-enabled device based on Sequans technology, that provides advanced LTE capability, including Category 4 (150 Mbps) throughput. The new device gives our customers a truly useful, powerful, and cost-competitive broadband connectivity solution.”
+
+In addition to LTE Category 4 throughput, the new BOLT! CPE, WLTQS-103, includes an Ethernet port, TR-069, and covers all of BOLT!’s LTE bands.
+
+The chip inside the new BOLT! CPE is Sequans’ Mont Blanc LTE Platform. Mont Blanc comprises baseband with integrated high-performance network and application CPU, an LTE-optimized transceiver, a carrier-proven and mature LTE protocol stack, and a comprehensive software package. Designed for the highest performance and efficiency as a standalone, single mode 4G LTE solution, Mont Blanc is a powerful, compact, and cost-effective LTE connectivity solution for feature-rich, high performance mobile devices. Mont Blanc is a member of Sequans’ StreamrichLTE™ family of products for broadband devices.
+
+“”We are excited to see our Mont Blanc technology reaching customers in Indonesia via Bolt’s new CPE,” said Hugues Waldburger, VP of Sequans’ Broadband business unit. “We believe that BOLT! customers in Indonesia will be delighted by the CPE’s very high performance that will make internet access much quicker and easier.”
+
+Forward looking statements
+
+About Sequans Communications
+
+Sequans Communications S.A. (NYSE: SQNS) is a leading provider of single-mode 4G LTE semiconductor solutions for the Internet of Things (IoT) and a wide range of broadband data devices. Founded in 2003, Sequans has developed and delivered seven generations of 4G technology and its chips are certified and shipping in 4G networks around the world. Today, Sequans offers two LTE product lines: StreamrichLTE™, optimized for feature-rich mobile computing and home/portable router devices, and StreamliteLTE™, optimized for M2M devices and other connected devices for the IoT. Sequans is based in Paris, France with additional offices in the United States, United Kingdom, Israel, Hong Kong, Singapore, Sweden, Taiwan, South Korea, and China. Visit Sequans online at www.sequans.com; www.facebook.com/sequans; www.twitter.com/sequans
+
+About BOLT
+
+BOLT launched the first commercial service of 4G LTE in Indonesia in January 2014 under the brand name of BOLT Super 4G LTE. As Indonesia’s first 4G LTE operator, BOLT continuously provides the fastest mobile Internet service with best quality and affordable price for everyone. Recently BOLT upgrade its service to provide further speed and launched new service brand “4G Ultra LTE,” which delivers Ultra Speed, Ultra Coverage and Ultra Value. A member of Global TD-LTE Initiative (GTI), BOLT 4G Ultra LTE is strongly committed in providing the best and most innovative broadband wireless access.

@@ -1,0 +1,47 @@
+Although expansion of oil palm plantations appears to be inevitable, regulators have options when deciding what land may be converted into the world’s most widely planted vegetable oil crop.
+
+A report by the Center for International Forestry Research (CIFOR) finds that current practices not only threaten forests and reduce ecosystem services, but future development will actually decrease the total economic value of two Indonesian provinces on the island of Borneo. Fortunately, there are other options.
+
+The study looks at how three possible scenarios for future oil palm development will affect West and Central Kalimantan: hotbeds for plantation expansion, and home to some of the world’s most ecologically important rainforest.
+
+The authors quantify what will happen under a business as usual (BAU) approach, a strict conservation plan (CON), and expansion guided by sustainable intensification (SUS-INT). They find that not only is the current approach detrimental, but alternate scenarios can maintain the provinces’ total economic value and meet the growing demands for palm oil – all while keeping Borneo’s remaining forests intact.
+
+Under a BAU scenario, all land currently zoned for corporate oil palm concessions are utilised to their maximum capacity. This includes clearing and planting concession areas that may be considered of high conservation value (HCV) or contain high carbon stock (HCS).
+
+Primary and secondary forests zoned before the issuance by the national government of a 2011 moratorium on new licenses to develop some of these areas are also fully converted. At the current rates of development, the authors predict total expansion will be achieved by 2035.
+
+“ By protecting remaining forests, converting only degraded and non-forested areas, and implementing crop enhancements, Indonesia can preserve the total economic value of its land while still meeting future demands for palm oil.
+
+At the other end of the spectrum, the CON scenario considers what will happen if the 2011 forest moratorium preventing new concessions on primary forest and peatland is applied to all currently undeveloped land, and companies adhere to zero-deforestation commitments.
+
+Future expansion would only occur on non-forested, already degraded scrub, or agricultural land and avoids all areas of HCV and HCS. Plantation development occurs at a quarter of the rate of expansion seen between 2000 and 2016. In short, this would be the best a conservationist could hope for once they accept that some future expansion is inevitable.
+
+In between the two, the SUS-INT option considers what would happen if plantations are expanded only in non-forested and non-peat areas, while yields are increased through improved cultivars and intensive management. The vast majority of conversion would only be allowed on lands identified by the World Resources Institute and Sekala, an environmental mapping firm based in Indonesia, as degraded areas suitable for oil palm expansion.
+
+Enhancement techniques boost yields to 5.1 tons of crude palm oil per hectare per year – the current average for plantations certified by the Roundtable on Sustainable Palm Oil, the world’s largest association for ethical production of the commodity. This would achieve roughly the same total volume as expected under the BAU scenario while using far less land.
+
+Researchers gamed out each scenario using detailed maps of land cover, current concession permits, hydrology and areas of HCV and HCS, while calculating impacts to ecosystem services and carbon losses or gains.
+
+To quantify the value of carbon stocks, they used the average price of carbon and CO2 equivalents obtained on the voluntary markets in 2017. Habitat quality, calculated using InVEST models, was used as a proxy for biodiversity which was combined with accepted estimates for the value of ecosystem services for each land type.
+
+For example, the total economic value (TEV) of 1 hectare of intact rainforest is $25,689 per year, considering what it provides in terms of flood mitigation, erosion prevention, air quality, sustainable forest products, as well as opportunities for recreation and tourism.
+
+By contrast, oil palm plantations have a TEV of $4,687-5,551 per hectare per year, while the least productive land type – scrubland – has a TEV of just $1,945 per hectare per year.
+
+After mapping land changes under each scenario through 2035, the authors found that, overall, the BAU model would result in a 9 and 13 per cent decline in TEV from current levels in Central and West Kalimantan. By contrast, during the same period the CON model maintains TEV for both provinces while SUS-INT results in a less than 2 per cent loss of TEV.
+
+While TEV calculations may be conceptually useful for comparing large-scale impacts, they can create false equivalences. Based on numbers alone, converting 1 hectare of intact forest into oil palm can be offset – purely economically – by converting 5.5 hectares of scrubland into oil palm.
+
+Thus, the constraints of each model must be considered along with the bottom line. While the SUS-INT scenario maintains the region’s total economic value, it does so while also protecting areas of HCV and HCS, meaning the benefits extend well beyond the bottom line.
+
+Considering only the carbon outcomes of the three scenarios, the report predicts that under business as usual Central and West Kalimantan can expect to release 1.4 billion tons of carbon by 2035. This amounts to a $14.9 billion loss on the carbon trading market.
+
+On the other hand, by protecting HCS areas and planting carbon-consuming oil palm trees in degraded areas, the two provinces could increase carbon storage via SUS-INT by 78 million tons, adding an estimated $853 million worth of value to their land. Interestingly, the CON scenario only adds 36 million tons of carbon storage, a result of the limited planting of new trees.
+
+However, the study does not consider the potential value of carbon that could be sequestered in degraded lands through reforestation or other uses.
+
+Ultimately, the report concludes that multiple factors must be considered before any plan is implemented – including seeking input from local stakeholders as to what value a particular area contributes to their livelihood – but as a general comparison of possible future scenarios, the models provide a compelling argument for shifting how we approach palm oil production.
+
+By protecting remaining forests, converting only degraded and non-forested areas, and implementing crop enhancements, Indonesia can preserve the total economic value of its land while still meeting future demands for palm oil.
+
+This story was published with permission from Mongabay.com. Read the full story.

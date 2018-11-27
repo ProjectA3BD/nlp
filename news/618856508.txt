@@ -1,0 +1,37 @@
+The Indonesian government is going to the Supreme Court over an NGO’s freedom of information request for detailed maps of land on which oil palm companies have been licensed to operate in Kalimantan, the country’s portion of Borneo island.
+
+Civil society groups have tried for years to pry away the maps, said to be crucial if the public is to effectively monitor an industry rife with illegality. Oil palm plantation firms routinely clear outside of their permitted areas, destroying forests and community lands with little oversight from local officials.
+
+The lack of clarity over who has been authorised to operate in precisely which areas can play into the hands of companies who dismiss watchdog allegations as based on faulty data.
+
+“We as members of the public want to participate in the nation’s governance of its natural resources”, said Linda Rosalina, a campaigner with Forest Watch Indonesia (FWI), the group behind the request.
+
+“There is no reason for the ministry to keep these documents under wraps,” she said.
+
+The Ministry of Land and Spatial Planning says otherwise. While it concedes that sharing the boundaries, coordinates and area of a company’s concession presents no problem, it continues to argue that releasing the permit holder’s name is a violation of the firm’s privacy.
+
+“It cannot be disclosed except for the purposes of [official] investigation and deed checking,” ministry spokesperson Virgo Eresta Jaya told Mongabay.
+
+“ There is no reason for the ministry to keep these documents under wraps. Linda Rosalina, campaigner, Forest Watch Indonesia
+
+FWI disagrees, arguing that maps without concessionaires’ names “make it difficult to identify companies that overlap or come into conflict with community land,” according to Kristian Purba, the group’s director.
+
+“I don’t know why the names can’t be released,” he told Mongabay. “It’s not like we’re asking for really detailed information, like the company’s wealth or finances.”
+
+While the ministry has put the nameless maps online, “they can’t be downloaded if you want to do spatial analysis,” Purba added.
+
+Last July, Indonesia’s Central Information Commission (KIP) ruled in favor of FWI’s request, ordering the ministry to release the maps, permit holders’ names included. The Surabaya State Administrative Court backed the NGO on appeal.
+
+On December 29, the ministry announced a second appeal, this time to the nation’s highest court.
+
+FWI isn’t the only environmental pressure group to meet resistance from President Joko “Jokowi” Widodo’s administration after filing a successful freedom of information request.
+
+Also in December, the Ministry of Environment and Forestry decided to go to court over a KIP ruling in favor of Greenpeace Indonesia.
+
+Greenpeace had asked the forestry ministry to release a variety of geospatial maps in the shapefile (.shp) format, which allows for more sophisticated analysis than do the .jpeg and .pdf files the state is willing to part with. The NGO is pursuing shapefile maps of oil palm, timber and mining concessions, of Indonesia’s land cover and more.
+
+The forestry ministry argues that complying with the KIP’s decision would violate the 2011 Geospatial Information Law.
+
+While the forestry ministry has made timber and logging concession maps available on its website — permit holders’ names included — its oil palm data is not as complete as that of the land ministry, which issues the last in a series of licenses that such firms must obtain.
+
+This story was published with permission from Mongabay.com

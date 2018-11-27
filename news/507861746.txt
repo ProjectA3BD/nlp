@@ -1,0 +1,33 @@
+IDR was among the worst performers in Asia since 2011, this had gone some way to correct the overbought conditions in October when it rallied 7.2%. 1.26% drop against the USD in November, but in December and new year series has been corrective actions again.
+
+
+
+But, Indonesian central bank relaxed the monetary policy stance by lowering the reserve requirement rate (RRR) in November. It left its benchmark rate at 7.5% in December, however businesses sentiment remains relatively weaker and the pace of fiscal spending will be important for growth momentum.
+
+
+
+While investment growth was a drag on GDP, it seems that spending has picked up in H2 2015. The government now expects spending to reach less than 92% of target by yearend with tax revenue at 85%-87%. It is unclear whether the government is able to sustain the growth momentum throughout the entire year or whether the spike in spending is a seasonal phenomenon.
+
+
+
+President Widodo's target of 7% GDP growth by 2019 seems a little optimistic without significant reforms to improve productivity and diversify the economy away from commodities. BI will retain an easing bias through 2016, but consensus already expects two 25bps rate cuts by end-2016.
+
+
+
+Liquidity is a challenge for sourcing IDR options, but there should be no questions around the value in owning IDR vol.
+
+
+
+In addition to Indonesia's well-known macro vulnerabilities of an expensive currency, high levels of foreign bond ownership and thin reserve buffers that make long vol compelling, vol valuations are not exorbitant either and carrying costs are miniscule.
+
+
+
+On speculative grounds, as the USDIDR is in corrective mood it is advisable to buy debit put spreads, buy 2W ITM delta puts and short 1W (1%) OTM puts with positive theta.
+
+
+
+But on hedging perspectives, USD/IDR straddles 1Y and out in tenor are self-financing in that the carry on the USD put leg more than pays for the straddle premium (even after indicative bid offers).
+
+
+
+We observed similar elevated ratios of carry / vol were last observed back during the EMU crisis years when implied vol levels were 3-4 vols higher from current levels.

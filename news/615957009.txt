@@ -1,0 +1,27 @@
+"We've never seen a market adoption like Go-Pay,'' said Mr Makarim (pictured), a former McKinsey & Co consultant who co-founded Go-Jek in Jakarta in 2010.
+
+[SINGAPORE] Go-Jek became Indonesia's first billion-dollar startup by offering ride-hailing services that became ubiquitous in the country. Now the company is planning a second act in digital payments amid rising competition from local rival Grab and Uber Technologies Inc.
+
+Go-Jek, backed by Sequoia Capital, KKR & Co and Warburg Pincus, rolled out the technology in April to let customers pay for rides and other services with digital payments instead of cash. Since then, the Go-Pay service has grown to account for more than 50 per cent of the company's transactions, according to Chief Executive Officer Nadiem Makarim.
+
+"We've never seen a market adoption like Go-Pay,'' said Mr Makarim, a former McKinsey & Co consultant who co-founded Go-Jek in Jakarta in 2010.
+
+Mr Makarim's company is in a three-way battle for dominance in the ride-hailing business in Southeast Asia, one of the fastest-growing regions in the world. Grab, based in Singapore and run by Makarim's Harvard Business School classmate Anthony Tan, has been expanding its reach, while Uber has had more resources to invest locally after selling its money-losing China business.
+
+sentifi.com Market voices on:
+
+Mr Makarim sees digital payments as a way to stand out from the competition and build a potentially lucrative business. Go-Pay is integrated with the Go-Jek app so customers can keep money stored on their mobile phones, like a digital debit card. Customers can add to their Go-Pay accounts from bank accounts or ATMs, or if they don't have a bank account they can give Go-Jek's drivers cash and have it transferred immediately to their accounts. The payment service can now be used on Go-Jek services, including rides and grocery deliveries, and it will be opened up to other merchants this year.
+
+"In Indonesia, people are already using the Go-Jek app and it's convenient to have an e-wallet, so it won't be difficult to convert them," said Fransisca Widjaja, an analyst at Macquarie Capital Securities.
+
+To keep pace with demand for payments as well as food and parcel deliveries, Mr Makarim plans to double the number of engineers in India to more than 200. He also plans to continue acquiring startups for talent after absorbing four Indian firms in 2016. The firm has about 100 engineers in Indonesia and about 10 in Singapore, in addition to its India staff.
+
+Go-Jek is one of 21 companies that have a digital payments license from Indonesia's central bank and the only ride-hailing service. The majority are banks and telecommunications companies.
+
+Grab has teamed up with licensed operators in Indonesia to provide its own GrabPay service, which it's taking to other Southeast Asian countries. Uber has chosen to work with independent payment services rather than introducing its own. Andrew Macdonald, Uber's regional manager for Latin America and Asia Pacific, said the company sees an advantage in letting customers choose cash, credit cards or digital payment services. "You'll continue to see us work to expand choice," he said. "There is no specific plan for Uber Wallet right now." Still, there's plenty of competition in digital payment services. Indonesian conglomerate Lippo Group and Ascend Money, a venture between Alibaba Group Holding Ltd's affiliate Ant Financial and Thai conglomerate Charoen Pokphand Group, are both entering the market in Indonesia.
+
+Their interest underscores the market opportunity. Indonesia is the world's fourth most-populous country with a young, tech-savvy citizens raised on smartphones and apps. Yet it has the second highest dependency on cash in the world after India, according to the World Bank. Only 1.6 per cent of adult Indonesians had a credit card in 2014, according to the World Bank.
+
+"It's early days, but the popularity of Go-Jek's app gives it a good chance to win," said Macquarie's Widjaja.
+
+BLOOMBERG

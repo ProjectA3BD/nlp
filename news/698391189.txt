@@ -1,0 +1,29 @@
+caption IBM CEO Ginni Rometty source Paul Morigi/Getty Images
+
+IBM is using the technology behind bitcoin to help farmers and other small businesses in underdeveloped countries participate in global trade.
+
+IBM announced the project on Monday, in partnership with fintech startups Stellar.org and KlickEx Group.
+
+The companies will use IBM’s blockchain technology to process financial transactions across borders and currencies – a process which is often prohibitively slow and costly for small business owners, especially when they are in developing regions with smaller banking infrastructures.
+
+The project is focused on what Stellar calls “underdeveloped payment corridors” – countries like Samoa and Fiji, where monetary policies, currencies, and economic instability make it difficult for businesses to move money internationally.
+
+IBM will essentially bring scale and bank partnerships to Stellar’s existing work on global blockchain transactions, as well as the efforts of KlickEx Groups, a liquidity provider, to get bigger international banks to work with these marginalized regions.
+
+The announcement is the latest of several projects IBM is working on that use blockchain technology. Earlier this year, IBM announced a collaboration with food distributors like Walmart and Nestlé, that aims to mitigate the spread of food-borne illnesses through more thorough tracking of the supply chain, from the farm to the store.
+
+No middleman
+
+One of the great promises of blockchain is its ability to quickly and securely exchange money across borders without having a middleman.
+
+caption Smaller currencies, such as the Samoan tala, face financial exclusion that could be eliminated by IBM’s new blockchain project. source Flickr/loei88
+
+The technology first grew in popularity around the 2008 financial crisis, when an anonymous creator known as Satoshi Nakamoto came up with the cryptocurrency bitcoin as a way to exchange money outside of the control of big banks and governments.
+
+While bitcoin is just one use of blockchain, the technology behind it is essentially the same: it’s a decentralized digital ledger. This means that every transaction that happens on the blockchain is recorded across multiple computer servers. It’s considered to be extremely transparent and nearly fraud-proof.
+
+From the businesses’ perspective, the new blockchain product can be used to manage both the legal and financial credibility of a transaction – from establishing the terms of a contract, to managing documentation, putting up collateral, obtaining letters of credit, and finalizing terms with immediate payment, according to IBM.
+
+“For example, in the future, the new IBM network could make it possible for a farmer in Samoa to enter into a trade contract with a buyer in Indonesia,” IBM said in a press release.
+
+The payment system is already at work in 12 different regions across the Pacific Islands, Australia, New Zealand, and the UK.

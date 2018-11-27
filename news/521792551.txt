@@ -1,0 +1,65 @@
+Last year, fires burned 2 million hectares of peatlands in Indonesia, creating an acrid haze that affected several neighbouring Southeast Asian countries.
+
+As nations met in Paris late last year to agree a deal to limit global greenhouse gas emissions, the huge carbon pool stored in the peatlands was going up in smoke at an unprecedented rate.
+
+Big companies have cleared a massive amount of peat forests in Sumatra and Kalimantan and drained the land to establish tree and oil palm plantations. Global Forest Watch estimates that the fires have tripled Indonesia’s entire annual emissions. Peatlands have become an important issue, not only in Indonesia but for the whole world.
+
+Indonesia wants to restore its peatlands, which are important for biomass production, water supply, carbon storage and biodiversity conservation. But first it needs to know the extent and depth of its peatlands.
+
+In early February, the Indonesian government, in partnership with the David and Lucile Packard Foundation, announced the Indonesian Peat Prize, a million-dollar competition to find an accurate and fast way to do this.
+
+Never before has mapping soil been so attractive. Eager mappers around the world are seeking collaboration with Indonesian counterparts to enter the competition.
+
+Restoring peatlands
+
+This is not Indonesia’s first attempt to restore its degraded peatlands. In 2014, it introduced legislation on the protection and management of the peat ecosystem. This legislation outlined peat conservation areas, which depends on the depth of peat. Peat can reach up to tens of metres below the ground. An area needs to be conserved if more than 30% of it holds peat that is at least 3 m deep.
+
+One of the obstacles to implementing this strategy, according to environment and forestry minister Siti Nurbaya, is that Indonesia still lacks reliable peat maps. She explained:
+
+A peat map already exists but the detail on peat depth and other things still needs to be prepared. From the map, we will know where there are protected and productive zones.
+
+In January, President Joko Widodo established the Peat Restoration Agency with the aim of restoring 2 million hectares of peatlands by 2020. The Norwegian government US$50 million to support the agency, while the US government pledged US$17 million for peatland restoration in Jambi province.
+
+The agency is finding it difficult, however, to identify areas that need to be conserved, because of poor data and the lack of accurate maps.
+
+Restoring peatlands
+
+Natural, undrained peatland is resilient to disturbance and does not burn easily. But degraded peatland, having been drained, is susceptible to fire.
+
+Restoring peatlands begins with blocking the drainage canals built by plantation companies so they could grow trees. Blocking the canals will re-wet the peat and raise the groundwater level.
+
+However, restoring the water table does not instantly solve the problem. Peatlands that have been drained subside. They become more dense as well as drier, and tend to repel water.
+
+The restored groundwater table of degraded peatland may not behave like natural peatland. In the dry season, natural peat can still maintain a reasonable height of water. But for restored peatland, a prolonged dry season can lower its water level once more.
+
+Nevertheless, improved water levels can create favourable conditions for native forest regeneration. In the long term, the peat will be restored and can even soak up carbon.
+
+Mapping techniques
+
+This brings us back to the million-dollar question: what are the new technologies that can map the extent and depth of peat soils accurately and efficiently?
+
+Traditional soil mapping techniques are too costly, as they require many field observations, and the manual techniques used can be too subjective. Many technologies for mapping peatlands have been tested in Indonesia and elsewhere, including remote sensing technologies that monitor soil from space.
+
+Lidar, a surveying device attached to an aircraft, uses a laser to measure the height of objects that are above ground. Lidar has been used to map fine-resolution elevation and identify deep peat soils (peat domes). However, Lidar only maps the elevation and infers deep peat; it cannot accurately survey what is under the ground.
+
+Most studies have focused on deep peats, but determining the borders of peatlands is important too. Our recent study showed that, within a peat area, as much carbon is stored outside the dome as in the dome.
+
+In Finland and Ireland, peat surveyors have used an instrument that measures gamma radiometric data. This detects natural gamma radiation that is continuously emitted from mineral soils, and which can be blocked or weakened by the presence of saturated peat.
+
+Airborne gamma radiometrics is mainly used in the mining industry and has been used to map the whole of Australia. It may be possible to use airborne gamma radiometric sensors to delineate peatlands in Indonesia. But the technique has not been tested in tropical areas with thick cover, and it may be expensive or impractical for covering vast areas.
+
+For mapping peat depth, which can help to calculate the carbon stored in peatlands, our recent research in Indonesia suggested that the digital mapping method developed in Australia and widely used for mapping carbon in mineral soils can be cost-effective and accurate.
+
+It involves a smart sampling strategy to get good ground data, and then coupling the data with factors that are known to influence peat depth. These factors are represented by freely available environmental information, such as remote sensing images and the Shuttle Radar Topography Mission digital elevation model. With the help of mathematical models, we can predict peat depth every 30 m on the land surface.
+
+Who would have guessed that soil mapping could bring a million-dollar prize? I would have preferred that the donor used the money to obtain better field observations, but we hope this prize will result in new inspiration and innovation.
+
+The requirements set out by the committee are still sketchy. An accurate method should be accompanied by a well-defined confidence of prediction.
+
+Who will take the prize? Which methods will reign supreme? We’ll find out next year.
+
+Budiman Minasny received funding from the Australia-Indonesia Centre and Australian Research Council.
+
+Budiman Minasny, Professor in Soil-Landscape Modelling, University of Sydney
+
+This article was originally published on The Conversation. Read the original article.

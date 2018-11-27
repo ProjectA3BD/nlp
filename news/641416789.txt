@@ -1,0 +1,47 @@
+India has some of the world’s most ambitious renewable energy goals. Prime Minister Narendra Modi promised to boost India’s solar energy generation capacity from 5.8 gigawatts (GW) in 2014 to 100 GW by 2022. As part of the Paris Agreement, India set a goal to increase the share of non-fossil-based power capacity from 30 per cent today to about 40 per cent by 2030.
+
+Companies are eager to help meet these goals, given the cost savings and environmental benefits of renewable energy, but many face barriers to sourcing wind and solar power. A lack of long-term certainty in policy implementation and limited access to innovative business models and financial products hold companies back. Though commercial and industrial customers account for close to 52 per cent of India’s electricity consumption, they have yet to make significant progress on renewable power.
+
+Strategies to scale clean energy in India
+
+Solutions are emerging. India’s Green Power Market Development Group (GPMDG), led by WRI and the Confederation of Indian Industries (CII), brings together government, utilities, regulators, companies and energy developers to scale up renewable energy purchasing in the private sector.
+
+So far, the group has worked with over 30 leading businesses in India to facilitate 200 megawatts (MW) of renewable energy transactions across several states, including Karnataka, Tamil Nadu and Maharashtra. GPMDG aims to bring 1,000 MW of additional clean energy online by 2020, enough power to energise 200,000 typical two-bedroom apartments.
+
+Over the past four years, GPMDG has pursued several strategies to make clean energy procurement more streamlined and accessible to large buyers in India. A few key lessons are emerging:
+
+Bangalore International Airport terminal, now powered by solar energy. Photo by Herry Lawford/Flickr
+
+1. Businesses need a stable and clear policy framework for purchasing renewable power.
+
+In 2014, the Karnataka Electricity Regulatory Commission (KERC), a regulator, was deliberating on fixing long-term grid usage charges for renewable energy projects. Until then, KERC revised these charges every year. Members of GPMDG engaged with KERC to inform the regulators that the typical payback of a solar project is seven years; that means investors need price certainty for at least 10 years to boost their confidence enough to put their money into renewables. KERC viewed this recommendation positively, and has waived the grid usage charges for the first 10 years of all solar projects commissioned by March 2018.
+
+Taking advantage of this favorable policy, large companies like the Bangalore International Airport are procuring solar power that provides price certainty and significant cost savings.
+
+2. New business models can make purchasing affordable and accessible to companies.
+
+In Bangalore, GPMDG has piloted projects to aggregate clean energy demand from large corporate buyers, such as Coca-Cola, Infosys, IBM, Cognizant and Philips. The pilots led to several lessons on how to structure transactions, achieve economies of scale and reduce costs.
+
+For example, when buyers are organised within a geographic area such as an industrial or business park, it is easier to aggregate demand for large renewable energy purchases. Also, buyers need to be segregated based on the type of contract that they want to enter – capital investment or a power purchase agreement.
+
+Based on these lessons, GPMDG is now attempting to scale aggregated renewable energy procurement in industrial parks like Mahindra World City, Chennai to exploit the benefits of scale and co-location.
+
+3. Building a community of large energy consumers can help share knowledge and best practices.
+
+GPMDG hosts an annual national event and quarterly steering committee meetings by state. At the most recent summit in Mumbai, more than 30 participants shared ideas and decided on a strategy to engage utilities, regulators and government to resolve policy and regulatory barriers for procurement of renewable energy. Such community building helped secure long-term clarity from KERC for solar energy, as described above.
+
+GPMDG also provides state-specific renewable energy procurement guides, policy briefs, case studies and decision-making tools to members. Likewise, WRI tracked the progress and impact of a new solar policy in Karnataka, sharing lessons with stakeholders from government, the power sector and major energy buyers.
+
+4. Companies need time to find developers who can meet demand at the right price.
+
+In a recent webinar, Vince Digneo and Sujatha Ganapathy of Adobe discussed the extensive due diligence needed to finalise a solar power purchase agreement (PPA) for their Bangalore and Noida operations. Some developers lacked the land to put up a solar plant and others did not have the technical capacity to deliver power. A request for proposal (RFP) that required developers to deliver power within three months of a signed PPA helped ensure quality of bids, but the process still took over a year from start to finish.
+
+“ Though commercial and industrial customers account for close to 52 per cent of India’s electricity consumption, they have yet to make significant progress on renewable power.
+
+Corporate demand for renewable energy across Southeast and South Asia
+
+India is not the only economy in Asia dealing with increasing energy demand from a growing commercial and industrial sector. Major businesses are looking to Indonesia, the Philippines and Vietnam to site manufacturing and other commercial operations.
+
+On March 27-28, 2017, a high-level meeting in Bangkok, Thailand will explore Southeast Asia’s clean energy potential. Companies looking to purchase renewable energy in these countries and others can use the lessons from India as a starting point.
+
+Deepak Sriram Krishnan is Manager, Charge at World Resources Institute and Ashok Kumar Thanikonda is Project Associate - Energy at World Resources Institute. This post is republished from the WRI blog.

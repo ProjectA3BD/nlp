@@ -1,0 +1,65 @@
+Tropical rainforests have that name for a reason, occurring in high rainfall areas close to the equator with swirling mists shrouding their lofty heights and moist soil that squelches underfoot. Some rainforests in Southeast Asia, however, tell a different tale.
+
+They have been drying up. This has caused devastating fires have been ravaging the area over the last two decades, like one in Indonesia in 1997 that caused more than 300,000 pollution-related deaths across Southeast Asia. And then, more recently, Indonesia’s fires of 2015 that scientists estimate contributed to the premature deaths of at least 100,000 people.
+
+Deforestation and climate change are often blamed for rainforest fires. Studies have shown that if current trends continue, droughts and subsequent fire risk will increase in severity and frequency.
+
+In this scenario, scientists say predicting fires and being able to forecast area that may be burned becomes important for better management.
+
+Current fire prediction models use meteorological parameters like wind, atmospheric humidity, air temperature and rainfall, all of which affect moisture content and thus the flammability of forests.
+
+But a recent study, published last month in the journal Nature Climate Change, puts forth a new factor: groundwater. The study, conducted by a group of researchers from Wageningen University in The Netherlands, examined available fire data for Borneo and found that incorporating groundwater dynamics into predictive models improves fire prediction accuracy.
+
+“ This is a novel approach that can potentially be used for more accurate estimates of burned area, which is an essential parameter for fire prevention and mitigation measures ahead of the fire season. Katia Fernandes, International Research Institute for Climate and Society, Columbia University
+
+Water, wind, fire
+
+Typically, it rains often in the tropics. Any vegetation on the forest floor and upper layers of the soil — would-be fuel for a forest fire — is moist and non-flammable.
+
+During occasional dry spells, leaf litter draws up groundwater through capillary action, like a straw filling up with water in a glass, which keeps it from drying out. But during prolonged dry spells, groundwater levels can get so low that capillary action cannot take place, creating a condition called “hydrological drought.”
+
+Trees may also shed leaves to combat drought, which can further exacerbate the situation. This increases potential fuel on the ground while at the same time reducing shade, which dries surface fuels even more. In short, “rainforests become highly flammable,” writes David Bowman from the University of Tasmania in a Nature Climate Change: News and Views piece accompanying the paper.
+
+When hydrological drought sets in, deep organic soils called peat become combustible, Bowman explains. “Importantly, even without fire, the drying out of peat during hydrological drought causes carbon losses due to rapid aerobic decomposition of organic matter,” he writes.
+
+Peatlands form over thousands of years as organic matter builds up, often reaching more than four meters (13 feet) in depth; peat as deep 20 meters (65 feet) has been recorded.
+
+Vast areas of peatland underlie tropical forests in places like the Congo Basin and Southeast Asia, where it acts like a sponge and keeps soil waterlogged. But if peat is drained, it can become a tinderbox, providing fuel for fires that are difficult or impossible to control.
+
+Such was the case in Indonesia in the latter half of 2015 when peat forest drained for agriculture caught fire. An area the size of the US state of Vermont burned, sickening half a million people and releasing more CO2 than Germany does in a year.
+
+Climatic shifts like the El Niño–Southern Oscillation (ENSO) can also contribute to rainforest drought. A periodic, irregular weather anomaly in the tropics, ENSO arises due to variation in winds and sea surface temperatures over the Pacific Ocean.
+
+An ENSO event can lead to changes in precipitation patterns; for instance, El Niño typically results in heavy rainfall in northwest South America and drought in Southeast Asia.
+
+Data from Global Forest Watch Fires show that the number of fires the country experienced between 2013 and 2016 peaked in 2015, coinciding with an El Niño event. Scientists say this event contributed to the length and severity of Indonesia’s 2015 wildfire crises, delaying the onset of seasonal rains that would’ve helped extinguish the fires.
+
+A drying island
+
+But what role does groundwater play in the relationship between drought and fire? To find out, researchers looked at rainfall, evapotranspiration (the amount of water released into the air by trees and bodies of water) and soil moisture data from the Climate Research Unit (UK).
+
+They found a “drying trend” of Borneo’s groundwater that has been happening since the early 20th century.
+
+Then the researchers compared this groundwater data with fire occurrence reports. Their results indicate a correlation between low groundwater levels – or hydrological drought – and increased fire activity. Although there were fires almost every year, “the amplification of wildfires occurs during drought years,” they write in their paper.
+
+They found that when a fire occurs in an area, almost 10 times more land is burned in a hydrological drought year than in a non-drought year. The frequency of very large fires, where more than 10,000 hectares were burned, was also higher during drought years. In other words, when larger areas were under hydrological drought, larger areas were burned.
+
+The authors noted that despite the importance that groundwater plays in fire susceptibility, few fire prediction models take that factor into account.
+
+“We investigated hundreds of statistical models,” wrote study coauthor Henny Van Lanen, a hydrogeology professor at Wageningen University, in an email. “So far, only models that use weather data (CLIM type of models) are used to predict wildfire probability (e.g. by NASA). We have proven that if you include hydrological information in the models (H-CLIM models), that is, groundwater recharge, the prediction improves.”
+
+Van Lanen and his team found that models that incorporated hydrological drought predicted both fire occurrence and burned area extent more effectively, especially during ENSO events. In contrast, climate-only models substantially underestimated the area burned under ENSO conditions.
+
+Outside experts laud the study, saying it provides a perspective not often considered by existing fire prediction methods.
+
+“The authors did a great job at exploring aspects of droughts that are not normally considered such as water availability in the soils,” said Katia Fernandes from the International Research Institute for Climate and Society at Columbia University. “This is in part due to the lack of observational data, which the authors overcame by modeling groundwater recharge.
+
+“This is a novel approach that can potentially be used for more accurate estimates of burned area, which is an essential parameter for fire prevention and mitigation measures ahead of the fire season.”
+
+Of broader significance, the authors say their findings could be useful when it comes to climate change adaptation and mitigation.
+
+“Hydrological drought has never been considered, so far, as an indicator for strategic policy formulation, and the results indicate that the approach offers a powerful tool to improve planning and strategies to adapt to climate change,” they write.
+
+“Most practically, such a tool may be adopted in the ambitious government effort in Indonesia to restore 2 million hectares of degraded peatland by 2020, among others by rewetting drained peatlands.”
+
+This story was published with permission from Mongabay.com

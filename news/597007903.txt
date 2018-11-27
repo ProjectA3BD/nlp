@@ -1,0 +1,39 @@
+“Sea-level rise” is a loaded statement and instils concern, scepticism and humour. From a sceptical stand point one could think about your own experience. I have been going to the beach near my parents’ house on the south coast of England for nearly 30 years. In all that time I can’t ever remember paddling in the water and thinking, “gosh, this is higher than it was last year”. Yet, over a similar period of time satellite observations show a global average sea-level rise of around 8cm. In fact a trend has been shown to go back further, to the late 19th and early 20th century.
+
+The record of observations over the past 100 years or so begs the question, will this rise continue? A new study that colleagues and I have published in PNAS looks at what happens to the sea level at 2°C warming and beyond. Our work, led by Svetlana Jevrejeva of the UK’s National Oceanography Centre, shows two key things.
+
+Selected estimates for sea level rises under 5°C warming. Jevrejeva et al
+
+First, that for an emissions scenario that causes global temperature to rise by 2°C and 5°C relative to the global temperature around 1870, there are a range of sea levels projected from 53cm to 178cm above the level in 2000. Second, that while the global average is projected to increase with rising temperatures, sea levels will not increase by the same amount everywhere.
+
+The sea isn’t actually ‘level’
+
+Let’s start with the second point as it will help answer the first. The sea is not level. In fact, it is anything but level. The reason is gravity. The force that keeps your feet firmly on the ground is also acting upon the ocean. The ocean is continually adjusting itself so that its surface – the sea level – feels the same gravitational pull everywhere (called an equipotential surface).
+
+Large things sitting on land, such as ice sheets, are big enough to pull (via their own gravity) the ocean towards them. If bits of an ice sheet or glacier fall off then their ability to pull the ocean towards them is less, so the ocean adjusts, and you have just added water to the ocean that wasn’t in it before which alters the sea level as well.
+
+This adjustment is happening all the time. Around 20,000 years ago there used to be some enormous ice sheets over North America and Scandinavia, which pushed down the land surface in those places. As the ice sheets melted the land surface rebounded and is still doing so today. Further from where these ice sheets used to be, the land subsided and its still doing so today. And there was the small matter of all that melted ice raising global sea level by about 120m, which was adjusting itself to keep gravity equal across its surface.
+
+The ocean itself has currents (which govern the large-scale transport of heat, freshwater, and nutrients) whose strength cause local increases in the height of sea level. The ocean is also warming up. And a warmer ocean causes the sea level to rise since liquids expand as their temperature increases.
+
+Each of the components that contribute to sea level (glaciers, ocean warming, ice sheets and so on) has a unique pattern for how much it will add to sea level in a particular place. If we add them up we get the total sea level at that point and also how much each component has contributed.
+
+Some future sea levels are more likely than others
+
+This leads us back to the first point, where I said that for each temperature rise there are a range of possible projected sea levels. Scientists have run computer simulations of how different levels of greenhouse gases and aerosols could affect the climate (atmosphere and ocean), the size and shape of glaciers and ice sheets, the amount of water on land that humans can dam and extract, and the way the land and ocean respond to adding and removing ice and water.
+
+The (really really) short result of all this research is that each component shows a range of possible responses to each scenario. By running the computer simulations many times, it appears that certain responses are more likely to happen than others. This allows us to say something about how likely a certain sea-level rise could occur in the future.
+
+This is best shown with an example. Let’s take Jakarta. The Indonesian capital is home to around 12m people, of whom nearly 1.6m live less than 450cm above sea-level.
+
+Our most likely projection for a temperature rise of 5°C is 85cm, which is pretty much the same as the global average. However, we can also think about what all those possible responses of each component are for a 5°C warming. In these situations there is a less than 5% chance of sea level being less than 49cm and less than 5% chance of sea level being more than 180cm.
+
+In the two cases, different components contribute a different amount (remember they each have a unique pattern). In the “lower” projection (49cm) it is ocean warming that dominates, while in the “higher” projection (180cm) it is the Antarctic ice sheet that dominates, followed by not insignificant contributions from ocean warming, glaciers and the Greenland ice sheet.
+
+Of course there are other things going on locally other than these components. For Jakarta, the gravest concern is subsidence. This mega city is sinking, mainly because of groundwater extraction. Projections of subsidence by 2100 for Jakarta are 230-300cm. Put these together with our higher sea level projection and we get 410-480cm of local sea-level rise. Remember the 1.6m people currently who live below 450cm? That number is likely to rise with a growing population.
+
+We started with the phrase “sea-level rise”. It is really important that we unpack this sort of phrase to fully understand what it means. We must recognise the difference between a global number and a local number. For Jakarta, global sea-level is important, but the local sea-level matters too. The sea level is not level – we should accept this fact and embrace the complexity of what makes up rising seas.
+
+Luke Jackson received funding from the European Union's Seventh Programme for Research, Technological Development and Demonstration under Grant Agreement No: FP7-ENV-2013-Two-Stage-603396-RISES-AM. He is currently working on the Climate Econometrics project, funded by the Robertson Foundation (Grant No: 9907422).
+
+This article was originally published on The Conversation. Read the original article.

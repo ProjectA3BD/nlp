@@ -1,0 +1,51 @@
+The Sustainable Development Goals (SDGs) offer specific, time-bound, and quantifiable targets in sync with national development plans and priorities. However, with over 230 SDG indicators—many of which require disaggregation by location, sex, gender, age, income, and other relevant dimensions—collecting the necessary granular data to monitor all SDGs and targets is no easy feat for national statistical systems (NSS).
+
+To better understand how ready national statistical systems are for the SDG era, ADB and the UN Economic and Social Commission for Asia and the Pacific (UNESCAP) have taken stock of 22 countries’ experience in disaggregating SDG indicators and using multiple types of data sources.
+
+In this survey, the national statistical organizations (NSOs) of 16 ADB developing member countries reported disaggregation of statistics by location for several SDG indicators. The disaggregation is sparse for some SDG indicators by sex, and it is even scarcer—if not absent—for disabled persons and indigenous peoples.
+
+Many NSOs acknowledge that the only way that they will be able to meet SDGs’ disaggregated data requirements is to utilize innovative methods and data sources.
+
+Over half (56 per cent) of the countries are utilizing small area estimation (SAE) methods that strengthen direct survey estimates for small areas (or small sub-populations) with auxiliary information such as census records). SAE approaches help to obtain more granular data on poverty or nutrition.
+
+A few NSOs also reported about their levels of access to aerial photos/satellite imagery, mobile data, web-scraped online price data, and social media data. Most of the respondents view Big Data as a promising way to address data gaps for SDGs, but only a limited number have current Big Data projects.
+
+ADB, UNESCAP helping countries report disaggregated stats
+
+Decades ago, NSSs generated statistics only from administrative data, censuses, and surveys. While rarely direct substitutes for data collected from censuses and surveys, administrative-based data can help reduce both the cost of statistics generation and the burden on respondents of surveys and censuses.
+
+Big Data from electronic devices, social media, search engines, and sensors tracking devices and satellite imagery now provides a novel data source for NSSs, with 3 Vs—(large) volume, velocity, and variety—to complement statistics from traditional sources. Big Data is being increasingly explored for development purposes.
+
+“ Most of the respondents view Big Data as a promising way to address data gaps for SDGs, but only a limited number have current Big Data projects.
+
+For instance, in Jakarta, Twitter conversations on the price of rice have provided an innovative way to monitor actual prices. In the Philippines, the World Bank has teamed up with ride-hailing service provider Grab to launch the Open Traffic Initiative, which uses Grab driver data to yield near real-time traffic data and statistics, including speed, flow, and delays at intersections to study critical areas in traffic management.
+
+Other examples include call detail records with information on mobile customer behavior being used to proxy the poverty status of mobile users. Digital traces of mobile phone use can likewise help track population movements and examine people’s behavior during disaster events.
+
+The UN Statistics Division has developed an inventory of Big Data projects. It includes past and ongoing undertakings on making use of scanner data from supermarket chains and other retailers, as well as online prices obtained from web-scraping to generate price indices in the People’s Republic of China, Japan, and the Republic of Korea.
+
+Big Data improves accuracy, granularity of stats on poverty, welfare
+
+The inventory also features mobile phone data with secondary data (such as land use and transportation networks) and primary data (from surveys) to yield information on population movement with high granularity and high frequency in Bangladesh, and soon in Sri Lanka.
+
+According to the 2017 ADB/ESCAP survey, some projects on Big Data—including satellite imagery, and geospatial data and social media data—can help to improve the granularity and accuracy of statistics on poverty and welfare. For instance, satellite imagery data has been used to generate small area estimates of girls’ stunting, women’s literacy, and access to modern contraception in Bangladesh.
+
+Despite excitement about Big Data, some NSSs have also expressed apprehension, especially as many sources are not fully accessible. NSSs have established protocols on data confidentiality from traditional sources, but there are limited guidelines for Big Data, which includes personal data with precise, geolocation-based information.
+
+A major challenge involves technological infrastructure, both hardware and software. Many data-mining tools may not be suitable or efficiently used for large datasets in a sequential computer. NSSs will thus need better ICT infrastructure (bandwidth) to download Big Data, as well as to catalogue, organize and process it in a sufficiently timely manner.
+
+The availability of interfaces by some statistical packages, such as open-sourced R to Hadoop-MapReduce, for most used statistical platforms has significantly contributed to the use of Big Data analytics. A related issue is curation; Big Data can result in a messy collage of data points whose accuracy is hard to establish.
+
+We need to carefully examine how representative Big Data is
+
+Another difficulty is that Big Data requires new skill sets. While NSOs are experienced in curating data, they often have no data scientists who are strong in both data and computational focus.
+
+NSOs and other agencies in NSSs are also recognizing the need for new legal protocols and institutional arrangements to access Big Data holdings for development purposes, as well as to prevent misuse.
+
+We also need to carefully examine how representative Big Data is. Unlike conventional data sources such as surveys and censuses, which have well-defined target populations, some types of Big Data may not represent the underlying population of interest. We must keep this in mind when complementing surveys and other traditional data sources with Big Data to ensure reliable statistical inferences.
+
+Through its Data for Development knowledge and support technical assistance, ADB tries to keep tabs on relevant Big Data initiatives so countries and stakeholders can have a more nuanced understanding on their scalability. We are also exploring potential synergies and opportunities for collaboration with development partners to help NSOs’ meet the disaggregated data requirements of the SDGs.
+
+That way, we statisticians can do our part to ensure that as the world takes its sustainable development path, no one gets left behind.
+
+This post was written by Iva Sebastian, Criselda De Dios, Katrina Miradora, and Jan Arvin Lapuz and republished from the ADB blog.
